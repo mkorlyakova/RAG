@@ -1,0 +1,8 @@
+numpy
+pandas
+torch-gpu
+transformers
+ollama
+langchain==0.1.13
+langchain_community==0.0.29
+duckduckgo-search
