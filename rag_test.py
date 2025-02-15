@@ -289,6 +289,12 @@ for model_name in  ['deepseek-r1:32b', 'qwen:32b', 'llama3.3:latest', 'phi4:late
         f.write('id,query,  no_context,t0,  context, t1, list_context, t2, docs, web \n')
     for  query in ['Опиши утренний уход за лицом.', 'Опиши методы RAG для анализа документов', "Дай рекомендации по лечению акне",]:
         print(query)
+        documents = []
+        documents, ind = vector_search(query, dataset_df)
+
+        web_results = web_search(question=query)
+        documents.append(web_results)
+
         try:
             llm = ChatOllama(model=model_name, temperature=0.1)
             chain = prompt | llm | StrOutputParser() #parser
