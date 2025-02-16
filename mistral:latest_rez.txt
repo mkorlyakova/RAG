@@ -142,3 +142,978 @@ id,query,  no_context,t0,  context, t1, list_context, t2, docs, web
       ],
       "ans>": "For treating acne, I would recommend using LA ROCHE-POSAY Effaclar Duo, B4 Pore Cleansing Gel, and NATURVITAROMA Scrub for Face and Body Detox. These products are suitable for addressing acne issues."
    }, 2.244454781214396, [72,797,455,74],  
+id,query,  no_context,t0,  context, t1, list_context, t2, docs, web 
+0, Опиши утренний уход за лицом.,  {
+      "answer": "Утренний уход за лицом включает несколько этапов. Сначала, промывай лицо водой и мягким средством для лица. Затем, использовать тоник для омолаживающего эффекта и подготовки кожи к последующим уходам. Применяй крем или смазку для лица в зависимости от типа кожи и потребностей вашей кожи. Не забывай наносить солнцезащитную мазь, чтобы защитить кожу от ультрафиолетового излучения. В конце, можно использовать крем для глаз или балочки для ухода за глазами.",
+      "recomended product": "тонник, крем или смазку для лица, солнцезащитная мазь, крем для глаз"
+    }, 3.792920541763306,  {
+      "recomended product": "Regeneration Ölserum Intensiv 20 мл",
+      "answer": "Утренний уход за лицом включает в себя несколько этапов. Сначала, промываем лицо водой и мылом для лица, чтобы удалить грязь и бактерии с поверхности кожи. Затем, используем тоник для лица, чтобы подготовить кожу к применению крема или масла. Наконец, применяем регенерирующую масляную сыворотку, например Regeneration Ölserum Intensiv 20 мл, которая помогает сгладить кожу и устранить признаки старения. Этот продукт подходит для всех типов кожи и унисекс."
+    }, 1.5477988958358764, 1. Bohemia (Bohemia) - Parfum Shower Gel, Ambra y Musk
+  2. Klorane (Klorane) - Lait d'Amandier Crème Douche (Pitaтельный крем для душа молочко миндаля с органическим маслом Купуасу)
+  3. Klorane (Klorane) - Fenille de Figuier Gel Douche (Питательный гель для душа цветок апельсина с органическим маслом Купуасу)
+  4. Gehwol (Gehwol) - Osvezhayushchaya vannochka (Освежающая ванночка)
+  5. Frei OL (Frei OL) - Milky Bath Oil (Масло для ванны c овсяным молочком)
+  6. Naturvita (Naturvita) - Scrub for Body, Gel (Скраб для тела ГЕЛЕВЫЙ)
+  7. Naturvita (Naturvita) - Scrub for Body, Detox with Fucus (Скраб для тела детокс с фукусом)
+  8. La Roche-Posay (La Roche-Posay) - Lipikar Lait (Молочко для сухой и очень сухой кожи младенцев, детей и взрослых)
+  9. Frei OL (Frei OL) - Hydrolipid Cream (Увлажняющий крем Hydrolipid)
+  10. La Roche-Posay (La Roche-Posay) - Lipikar Gel Lavant (Успокаивающий очищающий гель для душа с защитными свойствами для чувствительной кожи детей и взрослых с ниацинамидом и маслом ши)
+  11. Vitex (Viteks) - Salty Foot Soak (Солевая ванночка-концентрат с маслом чайного дерева для ног Парафинотерапия)
+  12. Westro (Westro) - Pedicure Massage Foot Bath (Гидромассажная ванночка для педикюра)
+  13. Bohemia (Bohemia) - Parfum Shower Gel, Rosy Pepper and Vetiver
+  14. Jiji (Jiji) - Face Cleanser (Пенка для умывания лица очищающая увлажняющая натуральная)
+  15. B4 (B4) - Cleansing Gel (Гель для умывания с пребиотиками)
+  16. Avène (Avène) - Lipid-Replenishing Balm XeraCalm A.D. (Липидо-восполняющий бальзам XeraCalm A.D.)
+  17. Snow from Kamchatka Volcanoes (Создавая Себя) - Butter for Face and Body "Snow from Kamchatka Volcanoes" with Shimmer (Баттер для лица и тела "Снег Камчатских вулканов" с шиммером)
+  18. Frei OL (Frei OL) - Shaping Oil for Body (Масло моделирующее для тела Shaping Oil)
+  19. Ovaco (Ovaco) - Balm for Shower, Moisturizing (Бальзам для душа Увлажняющий)
+  20. Avène (Avène) - Body Skin Care Oil (Масло для тела, лица и волос Body Skin Care Oil)
+  21. Vichy (Vichy) - Clinical Control Shower Gel (Питательный гель для душа клинико-контроль)
+  22. Vichy (Vichy) - Anti-Stress Shower Gel with 72 hours protection against body odor for women and men (Шоуер-гель анти-стресс с защитой на 72 часа от пота для женщин и мужчин)
+  23. Frei OL (Frei OL) - Mama Massage Oil (Массажное масло для беременных Mama)
+  24. La Roche-Posay (La Roche-Posay) - Soothing Body Wash with Shea Butter (Теплый душ для тела с Шей-бута)
+  25. Naturvita (Naturvita) - Scrub for Face, Detox with Fucus (Скраб для лица детокс с фукусом), 9.584436655044556, [712,123,743,968], [snippet: , title: EOF, link: http://www.google.com/search?hl=en&q=Опиши+утренний+уход+за+лицом.] 
+1, Опиши утренний уход за лицом.,  {
+      "answer": "Утренний уход за лицом включает в себя несколько этапов. Сначала, промывай лицо водой, используя мягкую воду и теплую воду для ухода за лицом. Затем, примесь косметический крем или железный крем, чтобы обеспечить влажность и защиту кожи от внешних факторов. После этого, используй тоник для омолаживания и укрепления кожи. Затем, примесь светлый блокирующий солнце крем или железный крем с защитой от УФ-лучей. В конце, не забудьте использовать глазу, чтобы обеспечить гигиену и свежесть глаз.",
+      "recomended product": "Мягкая вода, косметический крем или железный крем, тоник, блокирующий солнце крем или железный крем с защитой от УФ-лучей, глазу"
+    }, 3.792920541763306,  {
+      "recomended product": "Regeneration Ölserum Intensiv 20 мл",
+      "answer": "Утренний уход за лицом включает в себя несколько шагов. Начинайте с прохладного умывания лица водой, чтобы понизить кожную реакцию и подготовиться к применению косметики. Затем, используя палочку для массажа, наносите на лицо Регенерирующую масляную сыворотку для интенсивного ухода за кожей лица Regeneration Ölserum Intensiv 20 мл. Этот продукт помогает смягчать признаки старения и подходит для всех типов кожи. Подождите, пока он полностью впишется, прежде чем применять другие косметические средства."
+    }, 1.5477988958358764, 1. Bohemia (Bohemia) - Parfum Shower Gel, Ambra y Musk
+  2. Naturvita (Naturvitamins) - Scrub Body Detox with Fucus/Deep Cleansing
+  3. La Roche-Posay (L'Oréal) - Lipikar Lait Milk for Dry and Very Dry Skin Infants, Children and Adults
+  4. Klorane (Klorane Laboratories) - Nourishing Shower Gel with Almond Milk and Organic Cupuacu Oil
+  5. Frei Oils (Frei Oils) - Milky Bath Oil
+  6. Naturvita (Naturvitamins) - Scrub Body Gel/Hypoallergenic
+  7. La Roche-Posay (L'Oréal) - Lipikar Lavant Shower Gel with Protective Properties for Sensitive Skin Infants and Adults with Niacinamide and Shea Butter
+  8. Vichy (L'Oréal) - Anti-Stress Shower Gel with 72 Hour Protection Against Perspiration and Odor for Women and Men
+  9. Frei Oils (Frei Oils) - Mama Massage Oil
+  10. Klorane (Klorane Laboratories) - Nourishing Shower Gel with Bamboo Milk and Organic Cupuacu Oil
+  11. B4 (B4) - Cleansing Gel with Prebiotics
+  12. Frei Oils (Frei Oils) - Hydrolipid Cream
+  13. La Roche-Posay (L'Oréal) - Lipikar Gel Lavant Shower Gel with Soothing and Protective Properties for Sensitive Skin Infants and Adults with Niacinamide and Shea Butter
+  14. Vitex (Vitrix) - Salt Foot Bath Concentrate with Tea Tree Oil for Feet Paraffin Therapy
+  15. Westro (Westro) - Hydromassage Footbath for Pedicure 3000.0
+  16. Bohemia (Bohemia) - Parfum Shower Gel, Red Pepper and Vetiver
+  17. Jiji (Jiji Cosmetics) - Facial Cleanser, Natural Cleansing and Moisturizing
+  18. Avène (Avène Laboratories) - Lipid-Replenishing Balm XeraCalm A.D.
+  19. Snow from Kamchatka Volcanoes (Creating Yourself) - Butter for Face and Body "Snow of Kamchatka Volcanoes" with Shimmer
+  20. Frei Oils (Frei Oils) - Hydrolipid Cream
+  21. Klorane (Klorane Laboratories) - Nourishing Shower Gel with Fig Flower and Organic Cupuacu Oil
+  22. Klorane (Klorane Laboratories) - Nourishing Shower Gel with Orange Blossom and Organic Cupuacu Oil
+  23. Gehwol (Gehwol) - Refreshing Footbath
+  24. Naturvita (Naturvitamins) - Scrub Body Lemon Grass/Smoothness
+  25. La Roche-Posay (L'Oréal) - Lipikar Lait Milk for Dry and Very Dry Skin Infants, Children and Adults
+  26. Naturvita (Naturvitamins) - Coconut Body Scrub/Rich Nutrition and Moisturizing
+  27. Vichy (L'Oréal) - Anti-Stress Shower Gel with 72 Hour Protection Against Perspiration and Odor for Women and Men
+  28. Frei Oils (Frei Oils) - Mama Massage Oil
+  29. Klorane (Klorane Laboratories) - Nourishing Shower Gel with Bamboo Milk and Organic Cupuacu Oil
+  30. B4 (B4) - Cleansing Gel with Prebiotics
+  31. Frei Oils (Frei Oils) - Hydrolipid Cream
+  32. La Roche-Posay (L'Oréal) - Lipikar Lavant Shower Gel with Soothing and Protective Properties for Sensitive Skin Infants and Adults with Niacinamide and Shea Butter
+  33. Vitex (Vitrix) - Salt Foot Bath Concentrate with Tea Tree Oil for Feet Paraffin Therapy
+  34. Westro (Westro) - Hydromassage Footbath for Pedicure 3000.0
+  35. Bohemia (Bohemia) - Parfum Shower Gel, Red Pepper and Vetiver
+  36. Jiji (Jiji Cosmetics) - Facial Cleanser, Natural Cleansing and Moisturizing
+  37. Avène (Avène Laboratories) - Lipid-Replenishing Balm XeraCalm A.D.
+  38. Snow from Kamchatka Volcanoes (Creating Yourself) - Butter for Face and Body "Snow of Kamchatka Volcanoes" with Shimmer
+  39. Frei Oils (Frei Oils) - Hydrolipid Cream
+  40. Klorane (Klorane Laboratories) - Nourishing Shower Gel with Orange Blossom and Organic Cupuacu Oil, 9.584436655044556, [712,123,743,968], [snippet: , title: EOF, link: http://www.google.com/search?hl=en&q=Опиши+утренний+уход+за+лицом.] 
+2, Опиши утренний уход за лицом.,  {
+      "answer": "Утренний уход за лицом включает в себя несколько этапов. Сначала, промывай лицо водой, используя мягкую воду и теплую воду для ухода за лицом. Затем, примесь косметический крем или железный крем, чтобы обеспечить влажность и сгладить кожу. После этого, используй тоник для омолаживающего эффекта и уменьшения пор. Примесь солнечную защиту с SPF 30 или выше, чтобы защитить лицо от ультрафиолетового излучения. В конце, примесь крем под глазами для ухода за глазными кожами и предотвращения появления темных кругов под глазами.",
+      "recomended product": "Косметический крем, тоник, солнечная защита с SPF 30 или выше, крем под глазами"
+    }, 3.792920541763306,  {
+      "recomended product": "Regeneration Ölserum Intensiv 20 мл",
+      "answer": "Утренний уход за лицом включает в себя несколько этапов. Сначала, промывайте лицо водой, используя теплое и чистое водопроводное или минеральное водоочистительное устройство. Затем, примените регенерирующую масляную сыворотку для интенсивного ухода за кожей лица, такую как Regeneration Ölserum Intensiv 20 мл. Этот продукт помогает сражаться со знаками старения на лице и пригоден для всех типов кожи. Примените его по всему лицу, массажным движениями, чтобы увеличить всасывание. Завершите уход заливкой водой и сушкой лица."
+    }, 1.5477988958358764, 1. Bohemia (Bohemia) - Parfum Shower Gel, Ambra y Musk
+  2. Klorane (Klorane) - Lait d'Amandier Crème Douche (Pitaтельный крем для душа молочко миндаля с органическим маслом Купуасу)
+  3. Klorane (Klorane) - Fenille de Figuier Gel Douche (Питательный гель для душа цветок апельсина с органическим маслом Купуасу)
+  4. Gehwol (Gehwol) - Osvezhayushchaya vannochka (Освежающая ванночка)
+  5. Frei OL (Frei OL) - Milky Bath Oil (Масло для ванны c овсяным молочком)
+  6. Naturvita (Naturvita) - Scrub for Body, Gel (Скраб для тела ГЕЛЕВЫЙ)
+  7. Naturvita (Naturvita) - Scrub for Body, Detox with Fucus/Deep Cleanse (Скраб для тела детокс с фукусом/глубокое очищение)
+  8. Naturvita (Naturvita) - Scrub for Body, Coconut/Rich Nutrition and Moisture (Скраб для тела КОКОС/БЕРЕЖНОЕ ПИТАНИЕ И УВЛАЖНЕНИЕ)
+  9. Vichy (Vichy) - Anti-Stress Shower Gel, Antiperspirant 72H for Women and Men (Шариковый дезодорант анти-стресс от повышенного потоотделения, роликовый антиперспирант с защитой 72 часа от запаха пота для женщин и мужчин)
+  10. Frei OL (Frei OL) - Mama Oil (Массажное масло для беременных Mama)
+  11. Klorane (Klorane) - Seve de Bambou Gel Douche (Питательный гель для душа молочко бамбука с органическим маслом Купуасу Seve de Bambou)
+  12. B4 (B4) - Cleansing Gel for Washing (Гель для умывания с пребиотиками Cleansing)
+  13. Frei OL (Frei OL) - Hydrolipid Cream (Увлажняющий крем Hydrolipid)
+  14. La Roche-Posay (La Roche-Posay) - Lipikar Gel Lavant Shower Gel (Успокаивающий очищающий гель для душа с защитными свойствами для чувствительной кожи детей и взрослых с ниацинамидом и маслом ши)
+  15. Vitex (Viteks) - Salt Foot Soak Concentrate with Tea Tree Oil for Feet (Солевая ванночка-концентрат с маслом чайного дерева для ног Парафинотерапия)
+  16. Westro (Westro) - Pedicure Massage Foot Bath 3000.0 (Гидромассажная ванночка для педикюра 3000.0)
+  17. Bohemia (Bohemia) - Parfum Shower Gel, Rosy Pepper and Vetiver (Парфюмированный гель для душа, Розовый перец и ветивер)
+  18. Jiji (Jiji) - Facial Cleanser, Natural Cleansing and Moisturizing (Пенка для умывания лица очищающая увлажняющая натуральная)
+  19. Avène (Avène) - Lipid-Replenishing Balm XeraCalm A.D. (Липидо-восполняющий бальзам XeraCalm A.D.)
+  20. Snow Making Yourself (Создавающая себя) - Butter for Face and Body "Snow of Kamchatka Volcanoes" with Shimmer (Масло для лица и тела "Снег Камчатских вулканов" с блеском)
+  21. La Roche-Posay (La Roche-Posay) - Soothing Moisturizer for Sensitive Skin, Toleriane Ultra (Успокаивающий моistenizer для чувствительной кожи, Toleriane Ultra)
+  22. La Roche-Posay (La Roche-Posay) - Effaclar Duo + Acne Treatment Gel (Гель для лечения акне Effaclar Duo +)
+  23. La Roche-Posay (La Roche-Posay) - Anthelios Ultra Light Sunscreen Fluid SPF 60 (Солнцезащитная жидкость с защитой от солнца SPF 60 Anthelios Ultra Light)
+  24. La Roche-Posay (La Roche-Posay) - Cicaplast Baume B5 Repairing Balm (Бальзам для лечения и восстановления Cicaplast Baume B5)
+  25. La Roche-Posay (La Roche-Posay) - Hydrating Gels for Dry Skin, Hydraphase Intense (Гели для влажного питания кожи Hydraphase Intense), 9.584436655044556, [712,123,743,968], [snippet: , title: EOF, link: http://www.google.com/search?hl=en&q=Опиши+утренний+уход+за+лицом.] 
+3, Опиши утренний уход за лицом.,  {
+      "answer": "Утренний уход за лицом включает в себя несколько этапов. Сначала, промывай лицо водой, используя мягкую воду и теплую воду для ухода за лицом. Затем, примесь косметический крем или масло для лица, чтобы укрепить барьерную функцию кожи и предотвратить потерю влаги. После этого, используй тоник для лица, чтобы подготовить кожу к применению ароматерапевтических масел или кремов. Завершите уход заливанием солнцезащитной кремом, чтобы защитить кожу от ультрафиолетового излучения.",
+      "recomended product": "Солнцезащитный крем"
+    }, 3.792920541763306,  {
+      "recomended product": "Regeneration Ölserum Intensiv 20 мл",
+      "answer": "Утренний уход за лицом включает в себя несколько этапов. Сначала, промываем лицо водой, используя специальную чистую воду или крем для лица. Затем, примешиваем к воде или крему для лица регенерирующую масляную сыворотку, например Regeneration Ölserum Intensiv 20 мл от Dr Hauschka. Эта сыворотка помогает сгладить кожу и уменьшить признаки старения. После этого, примешиваем крем или масло для лица, в зависимости от типа кожи. Наконец, не забываем наносить солнцезащитную мазь."
+    }, 1.5477988958358764, 1. Bohemia (Bohemia) - Parfum Shower Gel, Ambra y Musk
+  2. Klorane (Klorane) - Lait d'Amandier Crème Douche (Pitaтельный крем для душа молочко миндаля с органическим маслом Купуасу)
+  3. Klorane (Klorane) - Fenille de Figuier Gel Douche (Питательный гель для душа цветок апельсина с органическим маслом Купуасу)
+  4. Gehwol (Gehwol) - Osvezhayushchaya vannochka (Освежающая ванночка)
+  5. Naturvita (Naturvita) - Scrub для тела БАМБУК ЛЕМОНГРАСС/ГЛАДКОСТЬ (Скраб для тела детокс с фукусом/глубокое очищение)
+  6. La Roche-Posay (La Roche-Posay) - Lipikar Lait (Молочко для сухой и очень сухой кожи младенцев, детей и взрослых)
+  7. Frei OL (Frei OL) - Milky Bath Oil (Масло для ванны c овсяным молочком)
+  8. Naturvita (Naturvita) - Scrub для тела ГЕЛЕВЫЙ/ГИПОАЛЛЕРГЕННЫЙ (Скраб для тела детокс с фукусом/глубокое очищение)
+  9. La Roche-Posay (La Roche-Posay) - Lipikar Gel Lavant (Успокаивающий очищающий гель для душа с защитными свойствами для чувствительной кожи детей и взрослых с ниацинамидом и маслом ши)
+  10. Vitex (Viteks) - Parafino-terapiya (Солевая ванночка-концентрат с маслом чайного дерева для ног Парафинотерапия)
+  11. Westro (Westro) - Hidromassazhnyaya vannochka dlya nog (Гидромассажная ванночка для педикюра)
+  12. Bohemia (Bohemia) - Parfum Shower Gel, Розовый перец и ветивер
+  13. Jiji (Jiji) - Face Wash (Пенка для умывания лица очищающая увлажняющая натуральная)
+  14. Frei OL (Frei OL) - Hydrolipid Cream (Увлажняющий крем Hydrolipid)
+  15. Avène (Avène) - Body Skin Care Oil (Масло для тела, лица и волос Body Skin Care Oil)
+  16. B4 (B4) - Cleansing Gel (Гель для умывания с пребиотиками)
+  17. Ovaco (Ovaco) - Balm for Shower (Бальзам для душа Увлажняющий)
+  18. Frei OL (Frei OL) - Shaping Oil (Масло моделирующее для тела Shaping Oil)
+  19. Klorane (Klorane) - Seve de Bambou Gel Douche (Питательный гель для душа молочко бамбука с органическим маслом Купуасу)
+  20. La Roche-Posay (La Roche-Posay) - Lipid-Replenishing Balm XeraCalm A.D. (Липидо-восполняющий бальзам XeraCalm A.D.)
+  21. Creating Myself (Creating Myself) - Snow of Kamchatka Volcanoes Butter for Face and Body "Snow of Kamchatka Volcanoes" с шиммером (Баттер для лица и тела "Снег Камчатских вулканов" с шиммером)
+  22. Frei OL (Frei OL) - Baby Oil (Масло для младенцев Baby Oil)
+  23. La Roche-Posay (La Roche-Posay) - Lipikar Gel AP+ (Успокаивающий очищающий гель для душа с ниацинамидом и маслом ши для чувствительной кожи)
+  24. Naturvita (Naturvita) - Scrub for Body (Скраб для тела)
+  25. La Roche-Posay (La Roche-Posay) - Cicaplast Baume B5 (Бальзам Cicaplast Baume B5 для восстановления и защиты кожи), 9.584436655044556, [712,123,743,968], [snippet: , title: EOF, link: http://www.google.com/search?hl=en&q=Опиши+утренний+уход+за+лицом.] 
+4, Опиши утренний уход за лицом.,  {
+      "answer": "Утренний уход за лицом включает в себя несколько этапов. Сначала, промывай лицо водой, используя мягкую воду и нежную масляну для лица. Затем, примесь косметический крем или железный крем, чтобы удалить остатки макияжа и защитить кожу от пыли и вредных веществ. После этого, используй тоник для лица, чтобы восстановить pH-баланс кожи. Затем, примесь экстракт или серу для лица, чтобы укрепить барьерную функцию кожи и предотвратить появление прыщей. Наконец, используй солнцезащитное средство с высоким SPF для защиты кожи от ультрафиолетового излучения.",
+      "recomended product": "Мягкая вода, нежная масляна для лица, косметический крем или железный крем, тоник для лица, экстракт или серу для лица, солнцезащитное средство с высоким SPF"
+    }, 3.792920541763306,  {
+      "recomended product": "Regeneration Ölserum Intensiv 20 мл",
+      "answer": "Утренний уход за лицом включает в себя несколько этапов. Сначала, промываем лицо водой и мылом для всех типов кожи. Затем, применяем регенерирующую масляную сыворотку, например Regeneration Ölserum Intensiv 20 мл от Dr Hauschka, которая помогает сражаться со знаками старения. Этот продукт пригоден для всех типов кожи и унисекс. Применяем его на лице после умывания. Завершаем уход заливанием лица водой, чтобы удалить остатки продукта."
+    }, 1.5477988958358764, 1. Bohemia (Bohemia) - Parfum Shower Gel, Ambra y Musk
+  2. Klorane (Klorane) - Lait d'Amandier Crème Douche (Pitaтельный крем для душа молочко миндаля с органическим маслом Купуасу)
+  3. Klorane (Klorane) - Fenille de Figuier Gel Douche (Питательный гель для душа цветок апельсина с органическим маслом Купуасу)
+  4. Gehwol (Gehwol) - Osvezhayushchaya vannochka (Освежающая ванночка)
+  5. Frei OL (Frei OL) - Milky Bath Oil (Масло для ванны c овсяным молочком)
+  6. Naturvita (Naturvita) - Scrub for Body, Gel (Скраб для тела ГЕЛЕВЫЙ)
+  7. Naturvita (Naturvita) - Scrub for Body, Detox with Fucus/Deep Cleansing (Скраб для тела детокс с фукусом/глубокое очищение)
+  8. Naturvita (Naturvita) - Scrub for Body, Coconut/Rich Nutrition and Moisture (Скраб для тела КОКОС/БЕРЕЖНОЕ ПИТАНИЕ И УВЛАЖНЕНИЕ)
+  9. Vichy (Vichy) - Anti-Stress Shower Gel, Clinical Control (Шариковый дезодорант анти-стресс от повышенного потоотделения, роликовый антиперспирант с защитой 72 часа от запаха пота для женщин и мужчин)
+  10. Frei OL (Frei OL) - Mama Oil (Массажное масло для беременных Mama)
+  11. Klorane (Klorane) - Seve de Bambou Gel Douche (Питательный гель для душа молочко бамбука с органическим маслом Купуасу Seve de Bambou)
+  12. B4 (B4) - Cleansing Gel (Гель для умывания с пребиотиками)
+  13. Frei OL (Frei OL) - Hydrolipid Cream (Увлажняющий крем Hydrolipid)
+  14. La Roche-Posay (La Roche-Posay) - Lipikar Gel Lavant Shower Gel (Успокаивающий очищающий гель для душа с защитными свойствами для чувствительной кожи детей и взрослых с ниацинамидом и маслом ши)
+  15. Vitex (Viteks) - Salty Foot Soak (Солевая ванночка-концентрат с маслом чайного дерева для ног Парафинотерапия)
+  16. Westro (Westro) - Pedicure Massage Foot Bath (Гидромассажная ванночка для педикюра 3000.0)
+  17. Bohemia (Bohemia) - Parfum Shower Gel, Rosy Pepper and Vetiver
+  18. Jiji (Jiji) - Face Wash, Cleansing & Moisturizing (Пенка для умывания лица очищающая увлажняющая натуральная), 9.584436655044556, [712,123,743,968], [snippet: , title: EOF, link: http://www.google.com/search?hl=en&q=Опиши+утренний+уход+за+лицом.] 
+5, Опиши утренний уход за лицом.,  {
+      "answer": "Утренний уход за лицом включает в себя несколько этапов. Сначала, промывай лицо водой, используя мягкую воду и теплое шприцборонито. Затем, наносите чистую водку или тоник для уменьшения размера пор и сбалансировки pH-уровня кожи. После этого, используй крем для лица, который содержит питательные вещества, такие как витамины А, С, Е и антиоксиданты, которые помогут укрепить кожу и защитить её от вредных факторов. Завершите процесс применением солнцезащитного крема или масла с высоким SPF для защиты от ультрафиолетового излучения.",
+      "recomended product": "Солнцезащитный крем 'Heliocare' или 'La Roche-Posay Anthelios'"
+    }, 3.792920541763306,  {
+      "recomended product": "Regeneration Ölserum Intensiv 20 мл",
+      "answer": "Утренний уход за лицом включает в себя несколько шагов. Начинайте с прохладного умывания лица водой, чтобы почистить и подготовить кожу к последующим процедурам. Затем примените регенерирующую масляную сыворотку для интенсивного ухода за кожей лица, например Regeneration Ölserum Intensiv 20 мл, которая помогает сражаться со знаками старения. Этот продукт подходит для всех типов кожи и унисекс. Примените его по всему лицу, особое внимание уделяя области вокруг глаз и уста. Завершите процесс массой или кремом для лица, чтобы обеспечить дополнительную влажность и защиту кожей."
+    }, 1.5477988958358764, 1. Bohemia (Bohemia) - Parfum Shower Gel, Ambra y Musk
+  2. Naturvita (Naturvitamins) - Scrub Body Detox with Fucus/Deep Cleansing
+  3. Avène (Avene) - Lipid-Replenishing Balm XeraCalm A.D.
+  4. Creating Myself (Self-Care) - Butter for Face and Body "Snow of Kamchatka Volcanoes" with Shimmer
+  5. Frei Ol (Frei Oil) - Milky Bath Oil with Oatmeal Milk
+  6. Naturvita (Naturvitamins) - Scrub Body Gel/Hypoallergenic
+  7. Naturvita (Naturvitamins) - Scrub Body Lemongrass/Bamboo
+  8. La Roche-Posay (La Roche-Posay) - Lipikar Lait Milk for Dry and Very Dry Skin of Babies, Children and Adults
+  9. Naturvita (Naturvitamins) - Scrub Body Coconut/Rich Nutrition and Moisturizing
+  10. Vichy (Vichy) - Anti-Stress Shower Gel with Tea Tree Oil for High Sweat, 72 Hour Antiperspirant Protection for Women and Men
+  11. Frei Ol (Frei Oil) - Massage Oil for Pregnant Women Mama
+  12. Klorane (Klorane) - Milk Bath Gel Shower Gel with Organic Cupuaçu Oil Bamboo
+  13. B4 (B4) - Cleansing Gel with Prebiotics
+  14. Frei Ol (Frei Oil) - Hydrolipid Cream
+  15. La Roche-Posay (La Roche-Posay) - Soothing Shower Gel with Protective Properties for Sensitive Skin of Children and Adults with Niacinamide and Shea Butter
+  16. Vitex (Viticks) - Salt Foot Bath Concentrate with Tea Tree Oil for Feet Paraffin Therapy
+  17. Westro (Westro) - Hydromassage Footbath for Pedicure 3000.0
+  18. Bohemia (Bohemia) - Parfum Shower Gel, Red Pepper and Vetiver
+  19. Jiji (Jiji) - Face Cleanser, Natural Cleansing and Moisturizing
+
+These are the products from your list. If you need more information about any of them or want to know their prices, please let me know!, 9.584436655044556, [712,123,743,968], [snippet: , title: EOF, link: http://www.google.com/search?hl=en&q=Опиши+утренний+уход+за+лицом.] 
+6, Опиши утренний уход за лицом.,  {
+      "answer": "Утренний уход за лицом включает несколько этапов. Сначала, промывай лицо водой, используя мягкую воду и теплое шприцборонье. Затем, примените чистую воду или тоник для уменьшения пор и равномерного распределения питания коже. После этого, нанесите крем или эмульсию для лица, чтобы обеспечить влажность и защиту от внешних факторов. Завершите процесс применением солнцезащитного крема с высоким уровнем СПФ.",
+      "recomended product": "Солнцезащитный крем SPF 50"
+    }, 3.792920541763306,  {
+      "recomended product": "Regeneration Ölserum Intensiv 20 мл",
+      "answer": "Утренний уход за лицом включает в себя несколько этапов. Сначала, промываем лицо водой, используя специальную чистую воду или крем для лица. Затем, применяем тоник для лица, чтобы подготовить кожу к следующим шагам. После этого, наносим регенерирующую масляную сыворотку, такую как Regeneration Ölserum Intensiv 20 мл, которая поможет смягчить признаки старения кожи. Этот продукт подходит для всех типов кожи и унисекс. Применяем его на лице и массажируем в глубину. В конце, закрываем покровом для лица или кремом солнцезащиты."
+    }, 1.5477988958358764, 1. Bohemia (Bohemia) - Parfum Shower Gel, Ambra y Musk
+  2. Klorane (Klorane) - Lait d'Amandier Crème Douche (Pitaтельный крем для душа молочного масла миндаля)
+  3. Klorane (Klorane) - Fenille de Figuier Gel Douche (Питательный гель для душа цветок апельсина с органическим маслом Купуасу)
+  4. Gehwol (Gehwol) - Osvezhivayushchaya vannochka
+  5. Naturvita (Naturvita) - Scrub for Body, Detox with Fucus/Deep Cleansing
+  6. Naturvita (Naturvita) - Scrub for Body, Coconut/Rich Nutrition and Moisturizing
+  7. Vichy (Vichy) - Anti-Stress Shower Gel, Roll-On Antiperspirant with 72h Protection against Odor for Women and Men
+  8. Frei OL (Frei OL) - Massage Oil for Pregnant Women Mama
+  9. Klorane (Klorane) - Seve de Bambou Gel Douche (Питательный гель для душа молочко бамбука с органическим маслом Купуасу)
+  10. B4 (B4) - Cleansing Gel with Prebiotics
+  11. Frei OL (Frei OL) - Hydrolipid Cream
+  12. La Roche-Posay (La Roche-Posay) - Lipikar Gel Lavant Shower Gel, Soothing and Cleansing with Protective Properties for Sensitive Skin of Children and Adults with Niacinamide and Shea Butter
+  13. Vitex (Viteks) - Salt Footbath Concentrate with Tea Tree Oil for Feet Paraffinotherapy
+  14. Westro (Westro) - Hydromassage Footbath for Pedicure 3000.0
+  15. Bohemia (Bohemia) - Parfum Shower Gel, Rosy Pepper and Vetiver
+  16. Jiji (Jiji) - Facial Cleanser, Natural Cleansing and Moisturizing
+  17. La Roche-Posay (La Roche-Posay) - Lipikar Lait Shower Milk for Dry and Very Dry Skin of Babies, Children and Adults
+  18. Naturvita (Naturvita) - Scrub for Body, Lemongrass/Smoothness
+  19. Frei OL (Frei OL) - Shaping Oil
+  20. Ovaco (Ovaco) - Balm for Shower, Moisturizing
+  21. Avène (Avène) - Body Skin Care Oil
+  22. Vichy (Vichy) - Clinical Control Women's Antiperspirant Deodorant
+  23. Vichy (Vichy) - Sensitive 0+ x2 Moisture&Replenish Shower Gel
+  24. Bohemia (Bohemia) - Parfum Shower Gel, Amber and Musk
+  25. Klorane (Klorane) - Lait de Cocoa Crème Douche (Pitaтельный крем для душа кокосовое молоко с органическим маслом Купуасу)
+  26. Frei OL (Frei OL) - Hydrolipid Shower Gel
+  27. La Roche-Posay (La Roche-Posay) - Lipikar Gel Lavant Body Wash, Soothing and Cleansing with Protective Properties for Sensitive Skin of Children and Adults with Niacinamide and Shea Butter
+  28. Vitex (Viteks) - Salt Footbath Concentrate with Eucalyptus Oil for Feet Paraffinotherapy
+  29. Westro (Westro) - Hydromassage Footbath for Pedicure 3000.1
+  30. Bohemia (Bohemia) - Parfum Shower Gel, Rosemary and Geranium
+  31. Jiji (Jiji) - Facial Cleanser, Natural Cleansing and Moisturizing with Aloe Vera
+  32. La Roche-Posay (La Roche-Posay) - Lipikar Lait Body Wash for Dry and Very Dry Skin of Babies, Children and Adults
+  33. Naturvita (Naturvita) - Scrub for Body, Lavender/Relaxation
+  34. Frei OL (Frei OL) - Shower Gel with Argan Oil
+  35. Ovaco (Ovaco) - Balm for Shower, Relaxing
+  36. Avène (Avène) - Thermal Spring Water Spray
+  37. Vichy (Vichy) - Sensitive 0+ x2 Moisture&Replenish Body Wash
+  38. Bohemia (Bohemia) - Parfum Shower Gel, Grapefruit and Mint
+  39. Jiji (Jiji) - Facial Cleanser, Natural Cleansing and Moisturizing with Green Tea
+  40. La Roche-Posay (La Roche-Posay) - Lipikar Body Oil AP+ for Dry and Very Dry Skin of Babies, Children and Adults, 9.584436655044556, [712,123,743,968], [snippet: , title: EOF, link: http://www.google.com/search?hl=en&q=Опиши+утренний+уход+за+лицом.] 
+7, Опиши утренний уход за лицом.,  {
+      "answer": "Утренний уход за лицом включает в себя несколько этапов. Сначала, промывай лицо водой, используя мягкую воду и теплую воду для ухода за лицом. Затем, примесь косметический крем или железный крем, чтобы обеспечить влажность и защиту кожи от внешних факторов. После этого, используй тоник для омолаживания и сбалансирования кожи. Затем, примесь экстракт или серу, чтобы уменьшить поры и обеспечить блеск. Наконец, примесь солнцезащитную крем для защиты от ультрафиолетового излучения.",
+      "recomended product": "Косметический крем, тоник, экстракт или серу, солнцезащитная крем"
+    }, 3.792920541763306,  {
+      "recomended product": "Regeneration Ölserum Intensiv 20 мл",
+      "answer": "Утренний уход за лицом включает в себя несколько этапов. Сначала, промывайте лицо водой, используя теплую воду для размягчения кожи. Затем, высушите лицо с помощью мягкого сухого тканя или хлопка. После этого, примените регенерирующую масляную сыворотку, например Regeneration Ölserum Intensiv 20 мл от Dr Hauschka. Этот продукт предназначен для интенсивного ухода за кожей лица и помогает сражаться со знаками старения. Примените его на всей поверхности лица, дабы обеспечить полноценное питание кожи. Завершите уход масляной кремом или эмульсией для лица в зависимости от типа вашей кожи."
+    }, 1.5477988958358764, 1. Bohemia - Bohemia Parfum Shower Gel (Amber & Musk, Ambra e Muschi, Rosa Pimenta e Vetiver)
+2. Klorane - Lait d'Amandier Crème Douche (Pituitifiant, Amarena, Olio di Mandorlo Organico)
+3. Frei OL - Milky Bath Oil (Masso per Bagno con Farina di Grano Duro e Olio di Mandorlo, Shaping Oil)
+4. Avene - Body Skin Care Oil (Olio Corpo, Olio per la Pelle e i Capelli)
+5. Vichy - Clinical Control Deodorant Shower Gel (Deodorante per la Pelle, Antiperspirante per Donne e Uomini, 48h protection against body odor)
+6. Vichy - Sensitive 0+ x2 Moisture&Replenish Shower Gel (Gel per la Pelle Sensibile, 0+, Ridispersione & Ricostruzione)
+7. Bohemia - Bohemia Parfum Shower Gel (Ambra e Muschi, Rosa Pimenta e Vetiver)
+8. Naturvita - Detox Scrub for Body (Scrub per il Corpo, Fucus/Deep Cleanse)
+9. Avene - Lipid-Replenishing Balm XeraCalm A.D. (Balsamo Ripianitivo, Xeracalm A.D., Ricostruzione dei Livelli di Ipoidi)
+10. Creating Myself - Snow of Kamchatka Volcano Butter for Face and Body (Butter per la Pelle e il Corpo, Neve dei Vulcani di Kamchatka con Shimmer)
+11. Frei OL - Milky Bath Oil (Masso per Bagno con Farina di Grano Duro e Olio di Mandorlo, Shaping Oil)
+12. Naturvita - Gel Body Scrub Hypoallergenic (Scrub per il Corpo, Gel, Ipoadallergenico)
+13. Naturvita - Lemongrass & Bamboo Body Scrub (Scrub per il Corpo, Bambuk Lemongrass/Smoothness)
+14. La Roche-Posay - Lipikar Lait Shower Gel (Gel per la Pelle Sensibile, Lavant, Protezione e Proprietà Ripianitrici per la Pelle Sensibile di Bambini e Adulti con Niacinamide e Olio di Mandorlo)
+15. Vitex - Salt Foot Soak Concentrate with Tea Tree Oil (Vanocchia a Sale, Parafinoterapia, Olio di Melograno del Tè)
+16. Westro - Hydromassage Foot Bath for Pedicure 3000.0 (Vanocchia Idromassaggio per i Piedi, Pedicure)
+17. Bohemia - Bohemia Parfum Shower Gel (Rosso Pepe e Vetiver, Rosa Pimenta e Vetiver)
+18. Jiji - Natural Face Wash (Washing Lotion, Cleansing, Uvlažňující a Očištění)
+19. Frei OL - Hydrolipid Cream (Cremone Idrolipidica, Umidificante)
+20. La Roche-Posay - Lipikar Gel Lavant Shower Gel (Gel per la Pelle Sensibile, Lavant, Protezione e Proprietà Ripianitrici per la Pelle Sensibile di Bambini e Adulti con Niacinamide e Olio di Mandorlo)
+21. Westro - Foot Bath for Pedicure (Vanocchia per i Piedi, Pedicure)
+22. Bohemia - Bohemia Parfum Shower Gel (Rosso Pepe e Vetiver, Rosa Pimenta e Vetiver), 9.584436655044556, [712,123,743,968], [snippet: , title: EOF, link: http://www.google.com/search?hl=en&q=Опиши+утренний+уход+за+лицом.] 
+8, Опиши утренний уход за лицом.,  {
+      "answer": "Утренний уход за лицом включает несколько этапов. Сначала, промывай лицо водой, используя мягкую воду и теплое шприцборонье. Затем, примените чистую воду или тоник для уменьшения пор и равномерного распределения питания на кожу лица. После этого, используй крем для лица, который содержит питательные вещества, такие как витамин С, эластин и гиалурониновая кислота, которые помогут укрепить кожу и сгладить неравномерности. Завершите процесс применением солнцезащитного крема или масла для лица, чтобы защитить кожу от ультрафиолетового излучения.",
+      "recomended product": "Солнцезащитный крем или масло для лица"
+    }, 3.792920541763306,  {
+      "recomended product": "Regeneration Ölserum Intensiv 20 мл",
+      "answer": "Утренний уход за лицом включает в себя несколько шагов. Начинайте с прохладного умывания лица водой, чтобы очистить и подготовить кожу к последующим процедурам. Затем примените регенерирующую масляную сыворотку, например Regeneration Ölserum Intensiv 20 мл от Dr Hauschka, которая помогает смягчить признаки старения кожи. Этот продукт пригоден для всех типов кожи и унисекс. Примените его на лицо, позволяя ему полностью впитываться. Завершите уход заливкой лица водой."
+    }, 1.5477988958358764, 1. Bohemia (Bohemia) - Parfum Shower Gel, Ambra y Musk
+  2. Klorane (Klorane) - Lait d'Amandier Crème Douche (Pitaтельный крем для душа молочко миндаля с органическим маслом Купуасу)
+  3. Klorane (Klorane) - Fenille de Figuier Gel Douche (Питательный гель для душа цветок апельсина с органическим маслом Купуасу)
+  4. Gehwol (Gehwol) - Osvezhayushchaya vannochka (Освежающая ванночка)
+  5. Naturvita (Naturvita) - Scrub for Body, Detox with Fucus/Deep Cleansing
+  6. La Roche-Posay (La Roche-Posay) - Lipikar Lait (Молочко для сухой и очень сухой кожи младенцев, детей и взрослых)
+  7. Naturvita (Naturvita) - Scrub for Body, Coconut/Rich Nutrition and Moisture
+  8. Vichy (Vichy) - Anti-Stress Shower Gel with 72 Hour Antiperspirant Protection (Шариковый дезодорант анти-стресс от повышенного потоотделения, роликовый антиперспирант с защитой 72 часа от запаха пота для женщин и мужчин)
+  9. Frei OL (Frei OL) - Mama Massage Oil (Массажное масло для беременных Mama)
+  10. Klorane (Klorane) - Seve de Bambou Gel Douche (Питательный гель для душа молочко бамбука с органическим маслом Купуасу Seve de Bambou)
+  11. B4 (B4) - Cleansing Gel for Washing with Prebiotics
+  12. Frei OL (Frei OL) - Hydrolipid Cream (Увлажняющий крем Hydrolipid)
+  13. La Roche-Posay (La Roche-Posay) - Lipikar Gel Lavant Shower Gel with Protective Properties for Sensitive Skin (Успокаивающий очищающий гель для душа с защитными свойствами для чувствительной кожи детей и взрослых с ниацинамидом и маслом ши)
+  14. Vitex (Viteks) - Paraffin Therapy Foot Soak Concentrate with Tea Tree Oil (Солевая ванночка-концентрат с маслом чайного дерева для ног Парафинотерапия)
+  15. Westro (Westro) - Pedicure Massage Foot Bath for 3000.0 (Гидромассажная ванночка для педикюра для ног для педикюра 3000.0)
+  16. Bohemia (Bohemia) - Parfum Shower Gel, Rosy Pepper and Vetiver
+  17. Jiji (Jiji) - Face Wash, Cleansing and Moisturizing Natural (Пенка для умывания лица очищающая увлажняющая натуральная)
+  18. Avène (Avène) - Lipid-Replenishing Balm XeraCalm A.D. (Липидо-восполняющий бальзам XeraCalm A.D.)
+  19. Creating Yourself (Creating Yourself) - Snow of Kamchatka Volcanoes Butter for Face and Body "Snow of Kamchatka Volcanoes" with Shimmer (Баттер для лица и тела "Снег Камчатских вулканов" с шиммером)
+  20. Frei OL (Frei OL) - Milky Bath Oil (Масло для ванны c овсяным молочком Milky Bath Oil)
+  21. Naturvita (Naturvita) - Scrub for Body, Gel/Hypoallergenic (Scrub for Body, Gel/Гипоаллергенный)
+  22. La Roche-Posay (La Roche-Posay) - Lipikar Gel AP+ Soothing Repairing Shower Gel (Успокаивающий и восстанавливающий очищающий гель для душа Lipikar Gel AP+)
+  23. Vichy (Vichy) - Mineral 89 Hydrating Serum (Минеральный 89 гидратирующий серомор)
+  24. La Roche-Posay (La Roche-Posay) - Cicaplast Baume B5 Soothing Repairing Balm (Успокаивающий и восстанавливающий бальзам для кожи Cicaplast Baume B5)
+  25. Frei OL (Frei OL) - Body Oil for Dry Skin (Масло для сухой кожи тела Frei OL), 9.584436655044556, [712,123,743,968], [snippet: , title: EOF, link: http://www.google.com/search?hl=en&q=Опиши+утренний+уход+за+лицом.] 
+9, Опиши утренний уход за лицом.,  {
+      "answer": "Утренний уход за лицом включает в себя несколько этапов. Сначала, промывай лицо водой, используя мягкую воду и теплую воду для ухода за лицом. Затем, примесь косметический крем или железный крем, чтобы обеспечить влажность и сгладить поверхность кожи. После этого, используй тоник для восстановления pH-баланса кожи. Далее, примесь экстракт растений или серу, чтобы укрепить барьерную функцию кожи и защитить ее от внешних факторов. В конце, не забудь применить солнцезащитное средство с высоким SPF для защиты кожи от ультрафиолетового излучения.",
+      "recomended product": "Косметический крем, тоник, экстракт растений или серу, солнцезащитное средство"
+    }, 3.792920541763306,  {
+      "recomended product": "Regeneration Ölserum Intensiv 20 мл",
+      "answer": "Утренний уход за лицом включает в себя несколько шагов. Начинайте с прохладного умывания лица водой, чтобы очистить и подготовить кожу к последующим процедурам. Затем, используя регенерирующую масляную сыворотку для интенсивного ухода за кожей лица, наносите ее по всему лицу и промазывайте в течение нескольких минут. Этот продукт помогает смягчать признаки старения и поддерживать здоровую кожу для любого типа кожи."
+    }, 1.5477988958358764, 1. Bohemia (Bohemia) - Parfum Shower Gel, Ambra y Musk
+  2. Klorane (Klorane) - Lait d'Amandier Crème Douche (Pitaтельный крем для душа молочко миндаля с органическим маслом Купуасу)
+  3. Klorane (Klorane) - Fleur d'Oranger Gel Douche (Питательный гель для душа цветок апельсина с органическим маслом Купуасу)
+  4. Gehwol (Gehwol) - Osvezhayushchaya vannochka (Освежающая ванночка)
+  5. Naturvita (Naturvita) - Scrub for Body, Detox with Fucus/Deep Cleansing
+  6. La Roche-Posay (La Roche-Posay) - Lipikar Lait (Молочко для сухой и очень сухой кожи младенцев, детей и взрослых)
+  7. Naturvita (Naturvita) - Scrub for Body, Coconut/Rich Nutrition and Moisture
+  8. Vichy (Vichy) - Anti-Stress Shower Gel with 72 Hour Protection Against Odor (Шариковый дезодорант анти-стресс от повышенного потоотделения, роликовый антиперспирант с защитой 72 часа от запаха пота для женщин и мужчин)
+  9. Frei OL (Frei OL) - Mama Massage Oil (Массажное масло для беременных Mama)
+  10. Klorane (Klorane) - Seve de Bambou Gel Douche (Питательный гель для душа молочко бамбука с органическим маслом Купуасу Seve de Bambou)
+  11. B4 (B4) - Cleansing Gel for Washing with Prebiotics
+  12. Frei OL (Frei OL) - Hydrolipid Cream (Увлажняющий крем Hydrolipid)
+  13. La Roche-Posay (La Roche-Posay) - Lipikar Gel Lavant Shower Gel with Protective Properties for Sensitive Skin (Успокаивающий очищающий гель для душа с защитными свойствами для чувствительной кожи детей и взрослых с ниацинамидом и маслом ши)
+  14. Vitex (Viteks) - Paraffin Therapy Foot Soak Concentrate with Tea Tree Oil (Солевая ванночка-концентрат с маслом чайного дерева для ног Парафинотерапия)
+  15. Westro (Westro) - Hydromassage Pedicure Foot Bath for 3000.0 (Гидромассажная ванночка для педикюра для ног для педикюра 3000.0)
+  16. Bohemia (Bohemia) - Parfum Shower Gel, Rosy Pepper and Vetiver
+  17. Jiji (Jiji) - Face Wash, Cleansing and Moisturizing Natural (Пенка для умывания лица очищающая увлажняющая натуральная), 9.584436655044556, [712,123,743,968], [snippet: , title: EOF, link: http://www.google.com/search?hl=en&q=Опиши+утренний+уход+за+лицом.] 
+10, Опиши методы RAG для анализа документов,  {
+      "recomended product": "Не указано",
+      "answer": "Метод RAG (Red, Amber, Green) используется для анализа документов и оценки их значимости или степени риска. Красный (Red) обозначает высокий уровень риска или негативные последствия, Желтый (Amber) - средний уровень риска или неопределенность, Зеленый (Green) - низкий уровень риска или положительные последствия. Этот метод позволяет быстро оценить документы и принимать решения на их основе."
+    }, 1.9034887075424194,  {
+      "recomended product": "NAKED 4.3 г, Paese Помада д/губ Маттология",
+      "answer": "Методы RAG для анализа документов используются в косметической промышленности и других сферах для классификации документов по уровню риска, значимости и действиям. В контексте косметологии, RAG может использоваться для оценки продукта на основе его цвета (бежевый), типа кожи (для всех типов кожи), финиша (матовый), назначения (увлажнение и стойкость) и гипоаллергенности (нет)."
+    }, 1.8840084314346313, 1. Bohemia (Bohemia) - Parfum Shower Gel, Ambra y Musk
+  2. Klorane (Klorane) - Lait d'Amandier Crème Douche (Pitaтельный крем для душа молочко миндаля с органическим маслом Купуасу)
+  3. Klorane (Klorane) - Fenille de Figuier Gel Douche (Питательный гель для душа цветок апельсина с органическим маслом Купуасу)
+  4. Gehwol (Gehwol) - Osvezhayushchaya vannochka (Освежающая ванночка)
+  5. Naturvita (Naturvita) - Scrub для тела БАМБУК ЛЕМОНГРАСС/ГЛАДКОСТЬ (Скраб для тела детокс с фукусом/глубокое очищение)
+  6. La Roche-Posay (La Roche-Posay) - Lipikar Lait (Молочко для сухой и очень сухой кожи младенцев, детей и взрослых)
+  7. Frei OL (Frei OL) - Milky Bath Oil (Масло для ванны c овсяным молочком)
+  8. Naturvita (Naturvita) - Scrub для тела ГЕЛЕВЫЙ/ГИПОАЛЛЕРГЕННЫЙ (Скраб для тела детокс с фукусом/глубокое очищение)
+  9. La Roche-Posay (La Roche-Posay) - Lipikar Gel Lavant (Успокаивающий очищающий гель для душа с защитными свойствами для чувствительной кожи детей и взрослых с ниацинамидом и маслом ши)
+  10. Vitex (Viteks) - Parafino-terapiya (Солевая ванночка-концентрат с маслом чайного дерева для ног Парафинотерапия)
+  11. Westro (Westro) - Hidromassazhnyaya vannochka dlya nog (Гидромассажная ванночка для педикюра)
+  12. Bohemia (Bohemia) - Parfum Shower Gel, Розовый перец и ветивер
+  13. Jiji (Jiji) - Umyvaya panka dlya litsa otshenkaushaya uvlazhnyayushchaya (Пенка для умывания лица очищающая увлажняющая натуральная)
+  14. Frei OL (Frei OL) - Hydrolipid (Увлажняющий крем)
+  15. Avène (Avène) - Soléna Salt Scrub (Солевая скраб для тела)
+  16. La Roche-Posay (La Roche-Posay) - Lipikar Gel Lavant Uso (Успокаивающий очищающий гель для душа с защитными свойствами для чувствительной кожи детей и взрослых с ниацинамидом и маслом ши)
+  17. Frei OL (Frei OL) - Shaping Oil (Масло моделирующее для тела)
+  18. Avène (Avène) - XeraCalm A.D. Lipid-Replenishing Balm (Липидовосполняющий бальзам)
+  19. Создавая себя (Creating Myself) - Butter для лица и тела "Снег Камчатских вулканов" с шиммером (Баттер для лица и тела "Снег Камчатских вулканов" с шиммером)
+  20. Frei OL (Frei OL) - Mama (Массажное масло для беременных)
+  21. Bimunica (Bimunica) - Gel-creme для душа УВЛАЖНЯЮЩИЙ (Питательный гель для души увлажняющий)
+  22. Oblio (Oblio) - Shower Gel (Шоуер gel)
+  23. Naturvita (Naturvita) - Scrub для тела с содой (Скраб для тела с содой)
+  24. La Roche-Posay (La Roche-Posay) - Lipikar Gel Lavant (Успокаивающий очищающий гель для душа с защитными свойствами для чувствительной кожи детей и взрослых с ниацинамидом и маслом ши)
+  25. Frei OL (Frei OL) - Body Oil (Масло для тела), 9.187514495849609, [46,436,439,437],  
+11, Опиши методы RAG для анализа документов,  В данном случае я не являюсь экспертом в области анализа документов, но я смогу поделиться информацией о методах RAG (Red, Amber, Green) и их применении для анализа документов.
+
+   Метод RAG используется для быстрой классификации документов или событий в категории "хорошо", "умеренно" и "плохо". Этот метод позволяет легко видеть, насколько документ или событие соответствуют определенным критериям.
+
+   - Красный (Red) - это категория для негативных событий или документов, которые требуют внимания и решения в ближайшее время.
+   - Желтый (Amber) - это категория для умеренно негативных событий или документов, которые требуют внимания, но не являются критическими.
+   - Зеленый (Green) - это категория для положительных событий или документов, которые могут быть проигнорированы или обработаны позже.
+
+   Для анализа документов метод RAG может быть применен следующим образом:
+
+   1. Идентифицируйте критерии, которые будут использоваться для классификации документов (например, соответствие с законом, качество контента и т.д.).
+   2. Разработайте определения для каждой категории RAG.
+   3. Присвойте каждому документу класс RAG в соответствии с критериями, которые вы ранее идентифицировали.
+   4. Анализируйте результаты для получения информации о состоянии документов и принятии решений по их обработке.
+
+   Результат:
+
+   {
+      "recomended product": "Не применяется",
+      "answer": "Метод RAG используется для быстрой классификации документов или событий в категории 'хорошо', 'умеренно' и 'плохо'. Этот метод позволяет легко видеть, насколько документ или событие соответствуют определенным критериям."
+   }, 1.9034887075424194,  {
+      "recomended_product": "NAKED 4.3 г, Paese Помада д/губ Маттология",
+      "answer": "Методы RAG для анализа документов используются в косметической индустрии для классификации и оценки качества продуктов. РАГ - это аббревиатура от Red (Красный) - для несоответствий, Amber (Желтый) - для улучшений и Green (Зеленый) - для соответствий. В контексте документа о продукте NAKED 4.3 г, Paese Помада д/губ Маттология, можно сказать, что цвет, тип кожи, финиш, назначение и область применения соответствуют требованиям (Green), а объем, оттенок и гипоаллергенный статус не соответствуют требованиям (Red)."
+    }, 1.8840084314346313, 1. Bohemia (Bohemia) - Parfum Shower Gel, Ambra y Musk
+  2. Klorane (Klorane) - Lait d'Amandier Crème Douche (Pitaтельный крем для душа молочко миндаля с органическим маслом Купуасу)
+  3. Klorane (Klorane) - Fenille de Figuier Gel Douche (Питательный гель для душа цветок апельсина с органическим маслом Купуасу)
+  4. Gehwol (Gehwol) - Osvezhayushchaya vannochka (Освежающая ванночка)
+  5. Naturvita (Naturvita) - Scrub для тела БАМБУК ЛЕМОНГРАСС/ГЛАДКОСТЬ (Scrub для тела детокс с фукусом/глубокое очищение)
+  6. La Roche-Posay (La Roche-Posay) - Lipikar Lait (Молочко для сухой и очень сухой кожи младенцев, детей и взрослых)
+  7. Naturvita (Naturvita) - Scrub для тела КОКОС/БЕРЕЖНОЕ ПИТАНИЕ И УВЛАЖНЕНИЕ (Scrub для тела с кокосовым маслом и питанием)
+  8. Vichy (Vichy) - Anti-Stress Shower Gel (Шоуер-гель анти-стресс от повышенного потоотделения, роликовый антиперспирант с защитой 72 часа от запаха пота для женщин и мужчин)
+  9. Frei OL (Frei OL) - Mama Massage Oil (Массажное масло для беременных)
+  10. Klorane (Klorane) - Seve de Bambou Gel Douche (Питательный гель для душа молочко бамбука с органическим маслом Купуасу)
+  11. B4 (B4) - Cleansing Shower Gel (Гель для умывания с пребиотиками)
+  12. Frei OL (Frei OL) - Hydrolipid Cream (Увлажняющий крем Hydrolipid)
+  13. La Roche-Posay (La Roche-Posay) - Lipikar Gel Lavant Shower Gel (Успокаивающий очищающий гель для душа с защитными свойствами для чувствительной кожи детей и взрослых с ниацинамидом и маслом ши)
+  14. Vitex (Viteks) - Salty Foot Soak (Солевая ванночка-концентрат с маслом чайного дерева для ног Парафинотерапия)
+  15. Westro (Westro) - Pedicure Massage Foot Bath (Гидромассажная ванночка для педикюра)
+  16. Bohemia (Bohemia) - Parfum Shower Gel, Rosy Pepper y Vetiver
+  17. Jiji (Jiji) - Face Wash (Пенка для умывания лица очищающая увлажняющая натуральная), 9.187514495849609, [46,436,439,437],  
+12, Опиши методы RAG для анализа документов,  {
+      "recomended product": "Не указано",
+      "answer": "Метод RAG (Red, Amber, Green) используется для анализа документов и оценки их значимости или степени риска. Красный (Red) обозначает высокий уровень риска или негативную оценку, Желтый (Amber) - средний уровень риска или неопределенную оценку, Зеленый (Green) - низкий уровень риска или положительную оценку. Этот метод позволяет быстро и эффективно проанализировать большое количество документов и принимать решения на их основе."
+    }, 1.9034887075424194,  {
+      "recomended_product": "NAKED 4.3 г, Paese Помада д/губ Маттология",
+      "answer": "Методы RAG для анализа документов используются в косметической промышленности и других сферах для классификации документов по уровню их значимости. РАГ - это аббревиатура от Red (Критическое), Amber (Важное) и Green (Неважное).\n1. Критические документы (Red) имеют высокий уровень значимости, они могут касаться серьезных проблем или решений, требующих немедленного внимания.\n2. Важные документы (Amber) также имеют значимость, но менее высокую, чем критические. Они могут касаться вопросов, которые требуют быстрого решения, но не являются срочными.\n3. Неважные документы (Green) имеют низкий уровень значимости и могут включать информацию, которая может быть полезна для будущего, но не требует немедленного внимания.\nВ контексте косметики, методы RAG могут использоваться для классификации документов о продуктах, например, для отслеживания критических проблем с производством или поставками, важных изменений в рецептуре продуктов или неважных сообщений о маркетинговых кампаниях."
+   }, 1.8840084314346313, 1. Bohemia (Bohemia) - Parfum Shower Gel, Ambra y Musk
+  2. Klorane (Klorane) - Lait d'Amandier Crème Douche (Pitaтельный крем для душа молочко миндаля с органическим маслом Купуасу)
+  3. Klorane (Klorane) - Fenille de Figuier Gel Douche (Питательный гель для душа цветок апельсина с органическим маслом Купуасу)
+  4. Gehwol (Gehwol) - Osvezhayushchaya vannochka (Освежающая ванночка)
+  5. Frei OL (Frei OL) - Milky Bath Oil (Масло для ванны c овсяным молочком)
+  6. Naturvita (Naturvita) - Scrub for Body, Gel (Скраб для тела ГЕЛЕВЫЙ)
+  7. Naturvita (Naturvita) - Scrub for Body, Detox with Fucus/Deep Cleansing (Скраб для тела детокс с фукусом/глубокое очищение)
+  8. Naturvita (Naturvita) - Scrub for Body, Coconut/Rich Nutrition and Moisture (Скраб для тела Кокос/Бедренное питание и увлажнение)
+  9. Vichy (Vichy) - Anti-Stress Shower Gel with 72h Protection Against Odor (Шариковый дезодорант анти-стресс от повышенного потоотделения, роликовый антиперспирант с защитой 72 часа от запаха пота для женщин и мужчин)
+  10. Frei OL (Frei OL) - Mama Oil (Массажное масло для беременных Mama)
+  11. Klorane (Klorane) - Seve de Bambou Gel Douche (Питательный гель для душа молочко бамбука с органическим маслом Купуасу Seve de Bambou)
+  12. B4 (B4) - Cleansing Gel (Гель для умывания с пребиотиками)
+  13. Frei OL (Frei OL) - Hydrolipid Cream (Увлажняющий крем Hydrolipid)
+  14. La Roche-Posay (La Roche-Posay) - Lipikar Gel Lavant Shower Gel (Успокаивающий очищающий гель для душа с защитными свойствами для чувствительной кожи детей и взрослых с ниацинамидом и маслом ши)
+  15. Vitex (Viteks) - Salty Foot Soak Concentrate with Tea Tree Oil (Солевая ванночка-концентрат с маслом чайного дерева для ног Парафинотерапия)
+  16. Westro (Westro) - Pedicure Massage Foot Bath (Гидромассажная ванночка для педикюра 3000.0)
+  17. Bohemia (Bohemia) - Parfum Shower Gel, Rosy Pepper and Vetiver
+  18. Jiji (Jiji) - Facial Cleanser, Natural Cleansing and Moisturizing (Пенка для умывания лица очищающая увлажняющая натуральная)
+  19. Avène (Avene) - Lipid-Replenishing Balm XeraCalm A.D. (Липидовосполняющий бальзам XeraCalm A.D.)
+  20. Snow from Kamchatka Volcanoes (Снег Камчатских вулканов) - Butter for Face and Body (Баттер для лица и тела "Снег Камчатских вулканов" с шиммером), 9.187514495849609, [46,436,439,437],  
+13, Опиши методы RAG для анализа документов,  {
+      "recomended product": "Не указано",
+      "answer": "Метод RAG (Red, Amber, Green) используется для анализа документов и оценки их значимости или важности. Этот метод позволяет быстро определить, какие документы требуют внимания и действий, а какие могут быть отложены на более позднее время. Красный (Red) цвет используется для обозначения документов, которые требуют немедленного внимания или решения, Желтый (Amber) - для документов, которые могут быть отложены на ближайшее время, но требуют внимания в ближайшие дни или недели, Зеленый (Green) - для документов, которые могут быть отложены на более позднее время и не требуют немедленного внимания."
+    }, 1.9034887075424194,  {
+      "recomended_product": "NAKED 4.3 г, Paese Помада д/губ Маттология",
+      "answer": "Методы RAG для анализа документов используются в косметической индустрии для классификации и оценки качества продуктов. РАГ - это аббревиатура от Red (Красный) - для несоответствий, Amber (Желтый) - для улучшений и Green (Зеленый) - для соответствий. В случае с документацией продукта NAKED 4.3 г, Paese Помада д/губ Маттология, можно классифицировать следующим образом: Красный (Red) - для гипоаллергенности, поскольку продукт не является гипоаллергеническим; Желтый (Amber) - для цвета, который может быть считаться нестандартным или уникальным, а также для назначения, которое включает в себя обеспечение увлажнения и стойкости."
+   }, 1.8840084314346313, 1. Bohemia (Bohemia) - Parfum Shower Gel, Ambra y Musk
+  2. Klorane (Klorane) - Lait d'Amandier Crème Douche (Pitaтельный крем для душа молочко миндаля с органическим маслом Купуасу)
+  3. Klorane (Klorane) - Fenille de Figuier Gel Douche (Питательный гель для душа цветок апельсина с органическим маслом Купуасу)
+  4. Gehwol (Gehwol) - Osvezhayushchaya vannochka
+  5. Naturvita (Naturvita) - Scrub for Body, Detox with Fucus/Deep Cleansing
+  6. Naturvita (Naturvita) - Scrub for Body, Coconut/Rich Nutrition and Moisture
+  7. Vichy (Vichy) - Anti-Stress Shower Gel, 72 hours antiperspirant protection for women and men
+  8. Frei OL (Frei OL) - Massage Oil for Pregnant Women Mama
+  9. Klorane (Klorane) - Seve de Bambou Gel Douche (Питательный гель для душа молочко бамбука с органическим маслом Купуасу)
+  10. B4 (B4) - Cleansing Gel for Washing with Prebiotics
+  11. Frei OL (Frei OL) - Hydrolipid Cream
+  12. La Roche-Posay (La Roche-Posay) - Lipikar Gel Lavant Shower Gel, Calming and Cleansing with Protective Properties for Sensitive Skin of Children and Adults with Niacinamide and Shea Butter
+  13. Vitex (Viteks) - Salt Footbath Concentrate with Tea Tree Oil for Feet Paraffinotherapy
+  14. Westro (Westro) - Hydromassage Footbath for Pedicure 3000.0
+  15. Bohemia (Bohemia) - Parfum Shower Gel, Rosy Pepper and Vetiver
+  16. Jiji (Jiji) - Face Wash, Natural Cleansing and Moisturizing
+  17. La Roche-Posay (La Roche-Posay) - Lipikar Lait Shower Milk for Dry and Very Dry Skin of Babies, Children and Adults
+  18. Naturvita (Naturvita) - Scrub for Body, Lemongrass/Smoothness
+  19. Frei OL (Frei OL) - Shaping Oil
+  20. Ovaco (Ovaco) - Balm for Shower, Moisturizing
+  21. Avène (Avène) - Body Skin Care Oil
+  22. Vichy (Vichy) - Clinical Control Women's Antiperspirant Deodorant
+  23. Vichy (Vichy) - Sensitive 0+ x2 Moisture&Replenish Shower Gel
+  24. Bohemia (Bohemia) - Parfum Shower Gel, Amber and Musk
+  25. Klorane (Klorane) - Lait de Cocoa Butter Shower Milk for Dry and Very Dry Skin of Babies, Children and Adults
+  26. Vichy (Vichy) - Anti-Stress Shower Gel, 72 hours antiperspirant protection for women and men with Stress Control Technology
+  27. Frei OL (Frei OL) - Body Lotion Hydrolipid
+  28. La Roche-Posay (La Roche-Posay) - Lipikar Gel Lavant Shower Gel, Calming and Cleansing with Protective Properties for Sensitive Skin of Children and Adults with Niacinamide and Shea Butter
+  29. Vitex (Viteks) - Salt Footbath Concentrate with Tea Tree Oil for Feet Paraffinotherapy
+  30. Westro (Westro) - Hydromassage Footbath for Pedicure 3000.0
+  31. Bohemia (Bohemia) - Parfum Shower Gel, Rosy Pepper and Vetiver
+  32. Jiji (Jiji) - Face Wash, Natural Cleansing and Moisturizing
+  33. La Roche-Posay (La Roche-Posay) - Lipikar Lait Shower Milk for Dry and Very Dry Skin of Babies, Children and Adults
+  34. Naturvita (Naturvita) - Scrub for Body, Lemongrass/Smoothness
+  35. Frei OL (Frei OL) - Shaping Oil
+  36. Ovaco (Ovaco) - Balm for Shower, Moisturizing
+  37. Avène (Avène) - Body Skin Care Oil
+  38. Vichy (Vichy) - Clinical Control Women's Antiperspirant Deodorant
+  39. Vichy (Vichy) - Sensitive 0+ x2 Moisture&Replenish Shower Gel
+  40. Bohemia (Bohemia) - Parfum Shower Gel, Amber and Musk, 9.187514495849609, [46,436,439,437],  
+14, Опиши методы RAG для анализа документов,  {
+      "recomended product": "Не указано",
+      "answer": "Метод RAG (Red, Amber, Green) используется для анализа документов и оценки их значимости или степени риска. Красный (Red) обозначает высокий уровень риска или критическую важность, Желтый (Amber) - средний уровень риска или важность, Зеленый (Green) - низкий уровень риска или неважность. Этот метод позволяет быстро оценить документы и принимать решения на их основе."
+    }, 1.9034887075424194,  {
+      "recomended_product": "NAKED 4.3 г, Paese Помада д/губ Маттология",
+      "answer": "Методы RAG для анализа документов используются в косметической индустрии для классификации и оценки качества продуктов. РАГ - это акроним от Red (Красный) - для неудовлетворительного, Amber (Желтый) - для удовлетворительного и Green (Зеленый) - для выдающегося. Эти методы позволяют оценить качество продукта на основе его свойств, таких как цвет, объем, тип кожи, финиш, назначение, оттенок, тип продукта, область применения и гипоаллергенность. В данном случае, рассматривается губная помада NAKED 4.3 г, которая предназначена для женщин всех типов кожи и имеет матовый финиш с назначением увлажнения и стойкости."
+   }, 1.8840084314346313, 1. Bohemia (Bohemia) - Parfum Shower Gel, Ambra y Musk
+  2. Klorane (Klorane) - Lait d'Amandier Crème Douche (Pitaтельный крем для душа молочко миндаля с органическим маслом Купуасу)
+  3. Klorane (Klorane) - Fenille de Figuier Gel Douche (Питательный гель для душа цветок апельсина с органическим маслом Купуасу)
+  4. Gehwol (Gehwol) - Osvezhayushchaya vannochka (Освежающая ванночка)
+  5. Naturvita (Naturvita) - Scrub for Body, Detox with Fucus/Deep Cleansing
+  6. La Roche-Posay (La Roche-Posay) - Lipikar Lait (Молоко для сухой и очень сухой кожи младенцев, детей и взрослых)
+  7. Naturvita (Naturvita) - Scrub for Body, Coconut/Rich Nutrition and Moisture
+  8. Vichy (Vichy) - Anti-Stress Shower Gel with 72 Hour Protection Against Odor (Шариковый дезодорант анти-стресс от повышенного потоотделения, роликовый антиперспирант с защитой 72 часа от запаха пота для женщин и мужчин)
+  9. Frei OL (Frei OL) - Mama Massage Oil (Массажное масло для беременных)
+  10. Klorane (Klorane) - Seve de Bambou Gel Douche (Питательный гель для душа молочко бамбука с органическим маслом Купуасу)
+  11. B4 (B4) - Cleansing Gel for Washing with Prebiotics
+  12. Frei OL (Frei OL) - Hydrolipid Cream (Увлажняющий крем Hydrolipid)
+  13. La Roche-Posay (La Roche-Posay) - Lipikar Gel Lavant Shower Gel with Protective Properties for Sensitive Skin (Успокаивающий очищающий гель для душа с защитными свойствами для чувствительной кожи детей и взрослых с ниацинамидом и маслом ши)
+  14. Vitex (Viteks) - Paraffin Therapy Foot Soak Concentrate with Tea Tree Oil (Солевая ванночка-концентрат с маслом чайного дерева для ног Парафинотерапия)
+  15. Westro (Westro) - Hydromassage Pedicure Foot Bath for 3000.0 (Гидромассажная ванночка для педикюра для ног на 3000.0)
+  16. Bohemia (Bohemia) - Parfum Shower Gel, Rosy Pepper and Vetiver
+  17. Jiji (Jiji) - Face Wash, Natural Cleansing and Moisturizing (Пенка для умывания лица очищающая увлажняющая натуральная), 9.187514495849609, [46,436,439,437],  
+15, Опиши методы RAG для анализа документов,  {
+      "recomended product": "Не указано",
+      "answer": "Метод RAG (Red, Amber, Green) используется для анализа документов и оценки их значимости или степени риска. Метод состоит из трех категорий: Красный (Red), Желтый (Amber) и Зеленый (Green). Красный обозначает высокий уровень риска или негативные последствия, Желтый - средний уровень риска или неопределенность, а Зеленый - низкий уровень риска или положительные последствия. Этот метод позволяет быстро оценить документы и принимать решения на их основе."
+    }, 1.9034887075424194,  {
+      "recomended_product": "NAKED 4.3 г, Paese Помада д/губ Маттология",
+      "answer": "Методы RAG для анализа документов используются в косметической индустрии для классификации и оценки качества продуктов. РАГ - это аббревиатура от Red (Красный) - для несоответствий, Amber (Желтый) - для улучшений и Green (Зеленый) - для соответствий. В данном случае, если мы анализируем документ о продукте NAKED 4.3 г, Paese Помада д/губ Маттология, то можно сделать следующие выводы: Красный (Red) - для несоответствий: этот продукт не гипоаллергенен; Желтый (Amber) - для улучшений: он предназначен для женщин и имеет матовый финиш, что может понравиться многим клиентам; Зеленый (Green) - для соответствий: этот продукт увлажняет и обеспечивает стойкость, он доступен для всех типов кожи."
+   }, 1.8840084314346313, 1. Bohemia - Bohemia Parfum Shower Gel (Amber & Musk, Ambra e Muschi, Rosa Pimenta e Vetiver)
+2. Klorane - Lait d'Amandier Crème Douche (Pituitifiant, Amarena, Olio di Mandorla Organico)
+3. Frei OL - Shaping Oil (Olio per il corpo, Shimmering Snow of Kamchatka Volcanoes, Olio per la pelle sensibile)
+4. Vichy - Clinical Control Anti-Perspirant Deodorant for Women and Men (Antiperspirante a secco, Antistress, 72 hours protection against body odor)
+5. Klorane - Fenille de Figuier Gel Douche (Pituitifiant, Aroma di Fico, Olio di Cuppavus Organico)
+6. Frei OL - Milky Bath Oil (Olio per il bagno, Oat Milk, Hydrolipid Cream)
+7. Klorane - Seve de Bambou Gel Douche (Pituitifiant, Aroma di Banano, Olio di Cuppavus Organico)
+8. Vichy - Anti-Perspirant Deodorant Roll-On for Women and Men (Antiperspirante a secco, 72 hours protection against body odor)
+9. Frei OL - Mama Massage Oil (Olio per la gravidanza, Olio per la pelle sensibile)
+10. Klorane - Fleur d'Oranger Gel Douche (Pituitifiant, Aroma di Arancia, Olio di Cuppavus Organico)
+11. B4 - Cleansing Gel for the Face and Body with Prebiotics (Gel per il lavaggio, Prebiotici)
+12. Frei OL - Hydrolipid Cream (Cremifico idrolipidico, Olio per la pelle sensibile)
+13. La Roche-Posay - Lipikar Gel Lavant Shower Gel for Sensitive Skin (Gel lavaggio, Calmante, Protezione per la pelle sensibile con Niacinamide e Olio di Mandorlo)
+14. Vitex - Salt Foot Soak Concentrate with Tea Tree Oil for the Feet (Parafinoterapia, Essenza di Melograno, Olio di Melograno di Tea Tree)
+15. Westro - Hydromassage Foot Bath for Pedicure (Bagnino idromassaggio per il piede, 3000W)
+16. Bohemia - Bohemia Parfum Shower Gel (Rosso Pimento e Vetiver)
+17. Naturvita - Detox Scrub for the Body with Fukus and Deep Cleansing (Scrub per il corpo, Detossificante con Fukus e Pulizia Profonda)
+18. La Roche-Posay - Lipikar Lait Milk for Dry and Very Dry Skin for Babies, Children and Adults (Latte per la pelle secca e molto secca, Latte per bambini, bambini e adulti)
+19. Naturvita - Coconut Scrub for the Body with Berene Nutrition and Moisturizing (Scrub per il corpo, Nutrizione di Berene e Umidificante con Cocco)
+20. Vichy - Anti-Perspirant Deodorant Roll-On for Women and Men (Antiperspirante a secco, Antistress, 72 hours protection against body odor during pregnancy)
+21. Frei OL - Mama Massage Cream (Cremifico per la gravidanza, Olio per la pelle sensibile)
+22. Klorane - Lait de Bambou Gel Douche (Pituitifiant, Aroma di Banano, Olio di Cuppavus Organico)
+23. B4 - Cleansing Gel for the Face and Body with Prebiotics (Gel per il lavaggio, Prebiotici)
+24. Frei OL - Hydrolipid Cream (Cremifico idrolipidico, Olio per la pelle sensibile)
+25. La Roche-Posay - Lipikar Gel Lavant Shower Gel for Sensitive Skin with Protective Properties (Gel lavaggio, Calmante, Protezione per la pelle sensibile con Niacinamide e Olio di Mandorlo), 9.187514495849609, [46,436,439,437],  
+16, Опиши методы RAG для анализа документов,  {
+      "recomended product": "Не указано",
+      "answer": "Метод RAG (Red, Amber, Green) используется для анализа документов и оценки их значимости или степени риска. Красный (Red) обозначает высокий уровень риска или негативную оценку, Желтый (Amber) - средний уровень риска или неопределенную оценку, Зеленый (Green) - низкий уровень риска или положительную оценку. Этот метод позволяет быстро и эффективно проанализировать большое количество документов и принимать решения на их основе."
+    }, 1.9034887075424194,  {
+      "recomended_product": "NAKED 4.3 г, Paese Помада д/губ Маттология",
+      "answer": "Методы RAG для анализа документов используются в косметической промышленности и других сферах, чтобы классифицировать документы по уровню их значимости. РАГ означает Red (Красный) для высокой значимости, Amber (Желтый) для средней значимости и Green (Зеленый) для низкой значимости. В контексте анализа документов описанной косметической продукции, метод RAG может быть использован для классификации документов по их значимости в процессе управления документами и ресурсами. Например, документ с описанием нового продукта или изменениях в формуле продукта может быть классифицирован как Красный (Red), тогда как документ с обычными отчетами по производству может быть классифицирован как Зеленый (Green)."
+   }, 1.8840084314346313, 1. Bohemia (Bohemia) - Parfum Shower Gel, Ambra y Musk
+  2. Naturvita (Naturvitamins) - Scrub Body Detox with Fucus/Deep Cleansing
+  3. La Roche-Posay (L'Oréal) - Lipikar Lait Milk for Dry and Very Dry Skin Infants, Children, and Adults
+  4. Klorane (Klorane Parisiennes) - Nourishing Shower Gel with Almond Milk and Organic Cupuaçu Oil
+  5. Frei Oils (Frei Oils) - Milky Bath Oil
+  6. Naturvita (Naturvitamins) - Scrub Body Gel/Hypoallergenic
+  7. La Roche-Posay (L'Oréal) - Lipikar Lait Milk for Babies, Toddlers and Adults with Dry or Very Dry Skin
+  8. Klorane (Klorane Parisiennes) - Nourishing Shower Gel with Coconut Oil and Organic Cupuaçu Oil
+  9. Vichy (L'Oréal) - Anti-Stress Shower Gel with 72 Hours Protection Against Perspiration for Women and Men
+  10. Frei Oils (Frei Oils) - Mama Massage Oil
+  11. Klorane (Klorane Parisiennes) - Nourishing Shower Gel with Bamboo Milk and Organic Cupuaçu Oil
+  12. B4 (B4) - Cleansing Shower Gel with Prebiotics
+  13. Frei Oils (Frei Oils) - Hydrolipid Cream
+  14. La Roche-Posay (L'Oréal) - Lipikar Gel Lavant Soothing Shower Gel for Sensitive Skin with Protective Properties for Children and Adults with Niacinamide and Shea Butter
+  15. Vitex (Vitrix) - Salt Foot Bath Concentrate with Tea Tree Oil for Feet Pedicure
+  16. Westro (Westro) - Hydromassage Footbath for Pedicure 3000.0
+  17. Bohemia (Bohemia) - Parfum Shower Gel, Red Pepper and Vetiver
+  18. Jiji (Jiji) - Natural Face Wash, Cleansing and Moisturizing
+  19. Frei Oils (Frei Oils) - Hydrolipid Cream for Body
+  20. La Roche-Posay (L'Oréal) - Lipikar Gel Lavant Soothing Shower Gel for Sensitive Skin with Protective Properties for Children and Adults with Niacinamide and Shea Butter, Lavender Scent, 9.187514495849609, [46,436,439,437],  
+17, Опиши методы RAG для анализа документов,  В данном случае я не являюсь экспертом в области анализа документов, но я смогу поделиться информацией о методах RAG (Red, Amber, Green), которые часто используются для классификации и анализа документов.
+
+   Метод RAG представляет собой систему классификации, которая помогает быстро оценить качество или статус документа. Эта система основана на трёх цветах: Красный (Red), Желтый (Amber) и Зелёный (Green).
+
+   - Красный (Red): Документ, который требует немедленного внимания или решения. Это может быть документ с ошибками, пропусками или другими серьёзными проблемами.
+   - Желтый (Amber): Документ, который требует внимания в ближайшем будущем. Это может быть документ с незначительными ошибками или пропусками, которые могут быть урешены в течение короткого периода времени.
+   - Зелёный (Green): Документ, который находится в порядке и требует никаких дополнительных действий. Это может быть документ, который соответствует всем требованиям или не имеет каких-либо проблем.
+
+   В контексте косметологии, метод RAG можно использовать для классификации документов о товарах и услугах. Например, если документ содержит информацию о продукте с неправильным названием или фотографией, то он может быть классифицирован как Красный (Red). Если документ содержит информацию о продукте, который требует улучшения в ближайшем будущем, например, изменение фотографии или добавление недостающих данных, то он может быть классифицирован как Желтый (Amber). Если документ содержит информацию о продукте, который находится в порядке и требует никаких дополнительных действий, то он может быть классифицирован как Зелёный (Green).
+
+   В JSON это выглядит следующим образом:
+
+   ```
+   {
+      "recomended product": "Не указано",
+      "answer": "Метод RAG используется для классификации документов по цветам Красный (Red), Желтый (Amber) и Зелёный (Green). Красный означает немедленное внимание или решение, Желтый - внимание в ближайшем будущем, а Зелёный - документ находится в порядке."
+   }
+   ```, 1.9034887075424194,  {
+      "recomended_product": "NAKED 4.3 г, Paese Помада д/губ Маттология",
+      "answer": "Методы RAG для анализа документов используются для классификации и оценки качества документов. РАГ - это аббревиатура от Red (красный) - для несоответствия, Amber (жёлтый) - для улучшения и Green (зелёный) - для соответствия. Красные метки применяются к документам, которые не соответствуют требованиям или стандартам, жёлтые - к тем, которые могут быть улучшены, а зелёные - к тому, который соответствует всем требованиям."
+    }, 1.8840084314346313, 1. Bohemia (Bohemia) - Parfum Shower Gel, Ambra y Musk
+  2. Klorane (Klorane) - Lait d'Amandier Crème Douche (Pitaтельный крем для душа молочного масла миндаля)
+  3. Klorane (Klorane) - Fenille de Figuier Gel Douche (Питательный гель для душа цветок апельсина с органическим маслом Купуасу)
+  4. Gehwol (Gehwol) - Osvezhayushchaya vannochka
+  5. Naturvita (Naturvita) - Scrub for Body, Detox with Fucus/Deep Cleansing
+  6. Naturvita (Naturvita) - Scrub for Body, Coconut/Rich Nutrition and Moisturizing
+  7. Vichy (Vichy) - Anti-Stress Shower Gel, Antiperspirant with 72h Protection against body odor for women and men
+  8. Frei OL (Frei OL) - Massage Oil for Pregnant Women Mama
+  9. Klorane (Klorane) - Seve de Bambou Gel Douche (Питательный гель для душа молочко бамбука с органическим маслом Купуасу)
+  10. B4 (B4) - Cleansing Gel with Prebiotics
+  11. Frei OL (Frei OL) - Hydrolipid Cream
+  12. La Roche-Posay (La Roche-Posay) - Lipikar Gel Lavant Shower Gel, Calming and Cleansing with protective properties for sensitive skin of children and adults with niacinamide and coconut oil
+  13. Vitex (Viteks) - Salt Footbath Concentrate with Tea Tree Oil for Feet Paraffinotherapy
+  14. Westro (Westro) - Hydromassage Footbath for Pedicure 3000.0
+  15. Bohemia (Bohemia) - Parfum Shower Gel, Rosy Pepper and Vetiver
+  16. Jiji (Jiji) - Face Wash, Cleansing and Moisturizing Natural
+  17. La Roche-Posay (La Roche-Posay) - Lipikar Lait Shower Milk for Dry and Very Dry Skin of Babies, Children and Adults
+  18. Naturvita (Naturvita) - Scrub for Body, Lemongrass and Bamboo/Smoothness
+  19. Frei OL (Frei OL) - Shaping Oil
+  20. Ovaco (Ovaco) - Balm for Shower Uplifting
+  21. Avène (Avène) - Body Skin Care Oil
+  22. Vichy (Vichy) - Clinical Control Shower Gel, Women's Antiperspirant with 48h Protection against body odor
+  23. Vichy (Vichy) - Sensitive 0+ x2 Moisture&Replenish Shower Gel, Gentle and Protective for Newborns and Infants
+  24. Klorane (Klorane) - Lait de Cocoa Crème Douche (Pitaтельный крем для душа кокосовое молоко с органическим маслом Купуасу)
+  25. Avène (Avène) - Lipid-Replenishing Balm XeraCalm A.D.
+  26. Creating Myself (Creating Myself) - Snow of Kamchatka Volcanoes Butter for Face and Body with Shimmer
+  27. Frei OL (Frei OL) - Milky Bath Oil
+  28. Naturvita (Naturvita) - Scrub for Body, Hypoallergenic Gel
+  29. Klorane (Klorane) - Lait de Bambou Seve Gel Douche (Питательный гель для душа молочко бамбука с органическим маслом Купуасу)
+  30. La Roche-Posay (La Roche-Posay) - Lipikar Lait Shower Milk for Dry and Very Dry Skin of Babies, Children and Adults with Shea Butter, 9.187514495849609, [46,436,439,437],  
+18, Опиши методы RAG для анализа документов,  {
+      "recomended product": "Не указано",
+      "answer": "Метод RAG (Red, Amber, Green) используется для анализа документов и оценки их значимости или степени риска. Метод основан на трёх категориях: Красный (Red), Желтый (Amber) и Зелёный (Green). Красные документы обозначают высокий уровень риска или необходимости внимания, жёлтые - средний уровень, а зелёные - низкий. Этот метод позволяет быстро и эффективно оценить большое количество документов и приоритизировать их по значимости."
+    }, 1.9034887075424194,  {
+      "recomended_product": "NAKED 4.3 г, Paese Помада д/губ Маттология",
+      "answer": "Методы RAG для анализа документов используются для классификации и оценки качества документов по трём основным критериям: Результативность (R - Red), Адекватность (A - Amber) и Граница (G - Green).\n1. Результативность (Red): Этот уровень используется для документов, которые не соответствуют требованиям или имеют критические ошибки.\n2. Адекватность (Amber): Этот уровень используется для документов, которые имеют незначительные ошибки или недостатки, но в целом соответствуют требованиям.\n3. Граница (Green): Этот уровень используется для документов, которые полностью соответствуют требованиям и имеют высокое качество."
+    }, 1.8840084314346313, 1. Bohemia (Bohemia) - Parfum Shower Gel, Ambra y Musk
+  2. Klorane (Klorane) - Lait d'Amandier Crème Douche (Pitaтельный крем для душа молочко миндаля с органическим маслом Купуасу)
+  3. Klorane (Klorane) - Fenille de Figuier Gel Douche (Питательный гель для душа цветок апельсина с органическим маслом Купуасу)
+  4. Gehwol (Gehwol) - Osvezhayushchaya vannochka (Освежающая ванночка)
+  5. Naturvita (Naturvita) - Scrub for Body, Detox with Fucus/Deep Cleansing
+  6. La Roche-Posay (La Roche-Posay) - Lipikar Lait (Молочко для сухой и очень сухой кожи младенцев, детей и взрослых)
+  7. Naturvita (Naturvita) - Scrub for Body, Coconut/Rich Nutrition and Moisture
+  8. Vichy (Vichy) - Anti-Stress Shower Gel with 72 Hour Antiperspirant Protection (Шариковый дезодорант анти-стресс от повышенного потоотделения, роликовый антиперспирант с защитой 72 часов от запаха пота для женщин и мужчин)
+  9. Frei OL (Frei OL) - Mama Massage Oil (Массажное масло для беременных Mama)
+  10. Klorane (Klorane) - Seve de Bambou Gel Douche (Питательный гель для душа молочко бамбука с органическим маслом Купуасу Seve de Bambou)
+  11. B4 (B4) - Cleansing Gel for Washing with Prebiotics
+  12. Frei OL (Frei OL) - Hydrolipid Cream (Увлажняющий крем Hydrolipid)
+  13. La Roche-Posay (La Roche-Posay) - Lipikar Gel Lavant Shower Gel with Protective Properties for Sensitive Skin (Успокаивающий очищающий гель для душа с защитными свойствами для чувствительной кожи детей и взрослых с ниацинамидом и маслом ши)
+  14. Vitex (Viteks) - Paraffin Therapy Foot Soak Concentrate with Tea Tree Oil (Солевая ванночка-концентрат с маслом чайного дерева для ног Парафинотерапия)
+  15. Westro (Westro) - Pedicure Massage Foot Bath for 3000.0 (Гидромассажная ванночка для педикюра для ног для педикюра 3000.0)
+  16. Bohemia (Bohemia) - Parfum Shower Gel, Rosy Pepper and Vetiver
+  17. Jiji (Jiji) - Face Wash, Cleansing and Moisturizing Natural (Пенка для умывания лица очищающая увлажняющая натуральная)
+  18. Avène (Avène) - Lipid-Replenishing Balm XeraCalm A.D. (Липидовосполняющий бальзам XeraCalm A.D.)
+  19. Creating Yourself (Creating Yourself) - Snow of Kamchatka Volcanoes Butter for Face and Body "Snow of Kamchatka Volcanoes" with Shimmer (Баттер для лица и тела "Снег Камчатских вулканов" с шиммером)
+  20. Frei OL (Frei OL) - Milky Bath Oil (Масло для ванны c овсяным молочком Milky Bath Oil)
+  21. Naturvita (Naturvita) - Body Scrub, Gel/Hypoallergenic (Scrub for Body, Gel/Hypoallergenic)
+  22. La Roche-Posay (La Roche-Posay) - Lipikar Gel AP+ Soothing Repair Shower Gel (Успокаивающий ремонтный гель для душа Lipikar Gel AP+)
+  23. Vichy (Vichy) - Mineral 89 Hydrating Serum (Минеральный 89 гидратирующий сероморф)
+  24. La Roche-Posay (La Roche-Posay) - Cicaplast Baume B5 Soothing Repair Balm (Успокаивающий ремонтный бальзам для кожи с повышенной чувствительностью Cicaplast Baume B5)
+  25. Frei OL (Frei OL) - Body Oil for Dry Skin (Масло для сухой кожи), 9.187514495849609, [46,436,439,437],  
+19, Опиши методы RAG для анализа документов,  {
+      "recomended product": "Не указано",
+      "answer": "Метод RAG (Red, Amber, Green) используется для анализа документов и оценки их значимости или степени риска. Метод состоит из трёх категорий: Красный (Red), Желтый (Amber) и Зелёный (Green). Красный обозначает высокую значимость или высокий уровень риска, Желтый - среднюю значимость или уровень риска, а Зелёный - низкую значимость или уровень риска. Этот метод позволяет быстро оценить документы и принимать решения на их основе."
+    }, 1.9034887075424194,  {
+      "recomended_product": "NAKED 4.3 г, Paese Помада д/губ Маттология",
+      "answer": "Методы RAG для анализа документов используются в косметической индустрии для классификации и оценки качества продуктов. РАГ сокращение от Red (Красный) - неудовлетворительный, Amber (Желтый) - удовлетворительный, Green (Зеленый) - выдающийся. Эти методы помогают определить качество продукта по различным параметрам, таким как цвет, объем, тип кожи, финиш, назначение, для кого, оттенок, тип продукта, область применения и гипоаллергенный статус. В данном случае, рассматриваемый продукт - это губная помада NAKED 4.3 г, которая предназначена для женщин и имеет матовый финиш. Эта помада увлажняет и обеспечивает стойкость. Она не гипоаллергенна."
+   }, 1.8840084314346313, 1. Bohemia (Bohemia) - Parfum Shower Gel, Ambra y Musk
+  2. Klorane (Klorane) - Lait d'Amandier Crème Douche (Pitaтельный крем для душа молочко миндаля с органическим маслом Купуасу)
+  3. Klorane (Klorane) - Fleur d'Oranger Gel Douche (Питательный гель для душа цветок апельсина с органическим маслом Купуасу)
+  4. Gehwol (Gehwol) - Osvezhayushchaya vannochka (Освежающая ванночка)
+  5. Naturvita (Naturvita) - Scrub для тела БАМБУК ЛЕМОНГРАСС/ГЛАДКОСТЬ (Скраб для тела детокс с фукусом/глубокое очищение)
+  6. La Roche-Posay (La Roche-Posay) - Lipikar Lait (Молочко для сухой и очень сухой кожи младенцев, детей и взрослых)
+  7. Naturvita (Naturvita) - Scrub для тела КОКОС/БЕРЕЖНОЕ ПИТАНИЕ И УВЛАЖНЕНИЕ (Скраб для тела с кокосовым маслом и питательностью)
+  8. Vichy (Vichy) - Anti-Stress Shower Gel (Шоуер-гель антистресс от повышенного потоотделения, роликовый антиперспирант с защитой 72 часа от запаха пота для женщин и мужчин)
+  9. Frei OL (Frei OL) - Mama Massage Oil (Массажное масло для беременных)
+  10. Klorane (Klorane) - Seve de Bambou Gel Douche (Питательный гель для душа молочко бамбука с органическим маслом Купуасу)
+  11. B4 (B4) - Cleansing Shower Gel (Гель для умывания с пребиотиками)
+  12. Frei OL (Frei OL) - Hydrolipid Cream (Увлажняющий крем Hydrolipid)
+  13. La Roche-Posay (La Roche-Posay) - Lipikar Gel Lavant Shower Gel (Очищающий гель для душа с защитными свойствами для чувствительной кожи детей и взрослых с ниацинамидом и маслом ши)
+  14. Vitex (Viteks) - Salty Foot Soak (Солевая ванночка-концентрат с маслом чайного дерева для ног Парафинотерапия)
+  15. Westro (Westro) - Pedicure Massage Foot Bath (Гидромассажная ванночка для педикюра)
+  16. Bohemia (Bohemia) - Parfum Shower Gel, Rosa Pimienta y Vetiver (Парфюмированный гель для душа, Розовый перец и ветивер)
+  17. Jiji (Jiji) - Face Cleanser (Пенка для умывания лица очищающая увлажняющая натуральная), 9.187514495849609, [46,436,439,437],  
+20, Дай рекомендации по лечению акне,  {
+      "recomended product": "Бензойная пеeling-маска",
+      "answer": "Лечение акне может включать в себя использование бензойной пеeling-маски, которая помогает удалить загрязнения и сгладить кожу. Кроме того, рекомендуется использовать солнечный экран для защиты от ультрафиолетового излучения, а также пилирование лица для удаления мертвых клеток и стимуляции роста новых."
+    }, 1.0747016191482544,  {
+      "recomended product": "NORMACNE",
+      "answer": "Для лечения акне я рекомендую использовать продукт NORMACNE - Точечный гель для проблемной кожи. Этот гель предназначен против несовершенств и пригоден для женской кожи. Применяется на лицо, но не гипоаллергенен."
+   }, 0.7325762033462524, 1. Bohemia (Bohemia) - Parfum Shower Gel, Ambra e Musk
+2. Naturvita (Naturvitamins) - Scrub Body Detox with Fucus/Deep Cleansing
+3. La Roche-Posay (L'Oréal) - Lipikar Lait Milk for Dry and Very Dry Skin of Babies, Children and Adults
+4. Klorane (Klorane Laboratories) - Nourishing Shower Gel with Almond Milk and Organic Cupuaçu Oil
+5. Frei Oils (Frei Oils) - Milky Bath Oil
+6. Naturvita (Naturvitamins) - Scrub Body Gel/Hypoallergenic
+7. La Roche-Posay (L'Oréal) - Lipikar Lait Milk for Dry and Very Dry Skin of Babies, Children and Adults
+8. Klorane (Klorane Laboratories) - Nourishing Shower Gel with Coconut Oil and Organic Cupuaçu Oil
+9. Vichy (L'Oréal) - Anti-Stress Shower Gel with 72 Hours Protection Against Sweat Odor for Women and Men
+10. Frei Oils (Frei Oils) - Mama Massage Oil
+11. Klorane (Klorane Laboratories) - Nourishing Shower Gel with Bamboo Milk and Organic Cupuaçu Oil
+12. B4 (B4) - Cleansing Shower Gel with Prebiotics
+13. Frei Oils (Frei Oils) - Hydrolipid Cream
+14. La Roche-Posay (L'Oréal) - Lipikar Gel Lavant Soothing Shower Gel with Protective Properties for Sensitive Skin of Children and Adults with Niacinamide and Shea Butter
+15. Vitex (Vitrix) - Salt Foot Bath Concentrate with Tea Tree Oil for Feet Paraffin Therapy
+16. Westro (Westro) - Hydromassage Footbath for Pedicure 3000.0
+17. Bohemia (Bohemia) - Parfum Shower Gel, Red Pepper and Vetiver
+18. Jiji (Jiji Cosmetics) - Facial Cleanser, Natural Cleansing and Moisturizing
+19. Avene (Avene) - Lipid-Replenishing Balm XeraCalm A.D.
+20. Snow from Kamchatka Volcanoes (Creating Yourself) - Body Butter for Face and Body "Snow of Kamchatka Volcanoes" with Shimmer
+21. Frei Oils (Frei Oils) - Hydrolipid Bath Oil with Oat Milk
+22. Naturvita (Naturvitamins) - Scrub Body Gel/Hypoallergenic, Lemongrass and Bay Leaf
+23. La Roche-Posay (L'Oréal) - Lipikar Lait Milk for Dry and Very Dry Skin of Babies, Children and Adults, Lavender
+24. Klorane (Klorane Laboratories) - Nourishing Shower Gel with Organic Cupuaçu Oil and Fig Flower
+25. B4 (B4) - Cleansing Shower Gel with Prebiotics, Fragrance-Free
+26. Frei Oils (Frei Oils) - Hydrolipid Cream for Body
+27. La Roche-Posay (L'Oréal) - Lipikar Gel Lavant Soothing Shower Gel with Protective Properties for Sensitive Skin of Children and Adults, Fragrance-Free
+28. Vichy (L'Oréal) - Anti-Stress Shower Gel with 72 Hours Protection Against Sweat Odor for Women and Men, Fragrance-Free
+29. Frei Oils (Frei Oils) - Mama Massage Oil, Lavender
+30. Klorane (Klorane Laboratories) - Nourishing Shower Gel with Organic Cupuaçu Oil and Orange Blossom
+31. B4 (B4) - Cleansing Shower Gel with Prebiotics, Fragrance-Free, Sensitive Skin Formula
+32. Frei Oils (Frei Oils) - Hydrolipid Cream for Face and Body
+33. La Roche-Posay (L'Oréal) - Lipikar Gel Lavant Soothing Shower Gel with Protective Properties for Sensitive Skin of Children and Adults, Fragrance-Free, Sensitive Skin Formula
+34. Vichy (L'Oréal) - Anti-Stress Shower Gel with 72 Hours Protection Against Sweat Odor for Women and Men, Fragrance-Free, Sensitive Skin Formula
+35. Frei Oils (Frei Oils) - Hydrolipid Bath Oil with Oat Milk, Lavender
+36. Naturvita (Naturvitamins) - Scrub Body Gel/Hypoallergenic, Lemongrass and Bay Leaf, Fragrance-Free
+37. La Roche-Posay (L'Oréal) - Lipikar Lait Milk for Dry and Very Dry Skin of Babies, Children and Adults, Fragrance-Free, Sensitive Skin Formula, Lavender
+38. Klorane (Klorane Laboratories) - Nourishing Shower Gel with Organic Cupuaçu Oil and Fig Flower, Fragrance-Free
+39. B4 (B4) - Cleansing Shower Gel with Prebiotics, Sensitive Skin Formula, Fragrance-Free
+40. Frei Oils (Frei Oils) - Hydrolipid Cream for Face and Body, Fragrance-Free, 9.016155362129211, [72,797,455,74],  
+21, Дай рекомендации по лечению акне,  {
+      "recomended product": "Бензойная пеeling-маска",
+      "answer": "Лечение акне может включать в себя применение бензойной пеeling-маски, которая помогает удалить загрязнения и сгладить кожу. Кроме того, рекомендуется использовать солнечную крем для защиты кожи от солнца и предотвращения появления новых пятен. Для улучшения состояния кожи необходимо также следить за правильной гигиеной лица, избегая прикосновений к лицу руками и использовать чистую воду для омовения лица."
+    }, 1.0747016191482544,  {
+      "recomended product": "NORMACNE",
+      "answer": "Для лечения акне я рекомендую использовать продукт NORMACNE - Точечный гель для проблемной кожи. Этот гель предназначен против несовершенств и применим к женской коже. Применение ограничивается лицом, но учитывайте, что он не гипоаллергенный."
+   }, 0.7325762033462524, 1. Bohemia - Bohemia Parfum Shower Gel (Amber, Musk)
+    2. Klorane - Lait d'Amandier Crème Douche (Milk Almond Shower Cream)
+    3. Frei Ol - Milky Bath Oil (Oat Milk Bath Oil)
+    4. NaturVitara - Detox Scrub for Body (Lemongrass, Detox)
+    5. Avène - XeraCalm A.D. Lipid-Replenishing Balm (Lipid-Replenishing Balm)
+    6. Создавая Себя - Snow of Kamchatka Volcano Butter for Face and Body (Snow of Kamchatka Volcano Butter)
+    7. Frei Ol - Hydrolipid Cream (Hydrolipid Cream)
+    8. La Roche-Posay - Lipikar Gel Lavant Shower Gel (Calming, Cleansing Shower Gel with Protective Properties for Sensitive Skin)
+    9. Vitex - Salt Foot Bath Concentrate with Tea Tree Oil (Salt Foot Bath Concentrate with Tea Tree Oil)
+    10. Westro - Hydromassage Footbath for Pedicure (3000.0)
+    11. Bohemia - Bohemia Parfum Shower Gel (Rosemary, Vetiver)
+    12. Jiji - Natural Face Wash (Oil-Cleansing, Hydrating)
+    13. Klorane - Fenille de Figuier Gel Douche (Fig Flower Shower Gel)
+    14. Klorane - Fleur d'Oranger Gel Douche (Orange Blossom Shower Gel)
+    15. Gehwol - Refreshing Foot Bath
+    16. NaturVitara - Detox Scrub for Body (Bamboo, Smoothness)
+    17. La Roche-Posay - Lipikar Lait (Milk for Dry and Very Dry Skin)
+    18. NaturVitara - Coconut Scrub for Body (Coconut, Nourishing and Hydrating)
+    19. Vichy - Anti-Stress Shower Gel with 72 Hours Antiperspirant Protection (Anti-Stress Shower Gel with 72 Hours Antiperspirant Protection)
+    20. Frei Ol - Mama Massage Oil (Massage Oil for Pregnant Women)
+    21. Klorane - Seve de Bambou Gel Douche (Bamboo Shower Gel)
+    22. B4 - Cleansing Gel with Prebiotics
+    23. Frei Ol - Hydrolipid Cream (Hydrolipid Cream)
+    24. La Roche-Posay - Lipikar Gel Lavant Shower Gel (Calming, Cleansing Shower Gel with Protective Properties for Sensitive Skin)
+    25. Vitex - Salt Foot Bath Concentrate with Eucalyptus Oil (Salt Foot Bath Concentrate with Eucalyptus Oil)
+    26. Westro - Hydromassage Footbath for Pedicure (3000.0)
+    27. Bohemia - Bohemia Parfum Shower Gel (Rose Pepper, Geranium)
+    28. Jiji - Natural Face Wash (Oil-Cleansing, Hydrating)
+    29. Klorane - Lait de Cocoa Crème Douche (Cocoa Milk Shower Cream)
+    30. Klorane - Sensitive 0+ x2 MOISTURE&REPLENISH Shower Gel (Sensitive, Moisturizing Shower Gel)
+    31. Gehwol - Refreshing Foot Bath
+    32. NaturVitara - Detox Scrub for Body (Lavender, Relaxation)
+    33. La Roche-Posay - Lipikar Lait (Milk for Dry and Very Dry Skin)
+    34. NaturVitara - Coconut Scrub for Body (Coconut, Nourishing and Hydrating)
+    35. Vichy - Anti-Stress Shower Gel with 72 Hours Antiperspirant Protection (Anti-Stress Shower Gel with 72 Hours Antiperspirant Protection)
+    36. Frei Ol - Mama Massage Oil (Massage Oil for Pregnant Women)
+    37. Klorane - Lait de Cocoa Crème Douche (Cocoa Milk Shower Cream)
+    38. B4 - Cleansing Gel with Prebiotics
+    39. Frei Ol - Hydrolipid Cream (Hydrolipid Cream)
+    40. La Roche-Posay - Lipikar Gel Lavant Shower Gel (Calming, Cleansing Shower Gel with Protective Properties for Sensitive Skin), 9.016155362129211, [72,797,455,74],  
+22, Дай рекомендации по лечению акне,  {
+      "recomended product": "Бензойная кислота",
+      "answer": "Лечение акне может включать в себя использование бензойной кислоты, которая помогает уменьшить воспаление и вызывает сублиминацию кератина. Кроме того, рекомендуется соблюдать правила гигиены кожи, удаляя makeup перед сном, а также использовать водный крем для очищения лица в течение дня."
+    }, 1.0747016191482544,  {
+      "recomended product": "NORMACNE",
+      "answer": "Для лечения акне я рекомендую использовать продукт NORMACNE - Точечный гель для проблемной кожи. Этот гель предназначен против несовершенств и применим к женской коже. Применение ограничено лицом, но необходимо учитывать, что он не гипоаллергенный."
+    }, 0.7325762033462524, 1. Bohemia (Bohemia) - Parfum Shower Gel, Ambra y Musk
+  2. Klorane (Klorane) - Lait d'Amandier Crème Douche (Pitaтельный крем для душа молочко миндаля с органическим маслом Купуасу)
+  3. Klorane (Klorane) - Fenille de Figuier Gel Douche (Питательный гель для душа цветок апельсина с органическим маслом Купуасу)
+  4. Gehwol (Gehwol) - Osvezhayushchaya vannochka (Освежающая ванночка)
+  5. Frei OL (Frei OL) - Milky Bath Oil (Масло для ванны c овсяным молочком)
+  6. Naturvita (Naturvita) - Scrub for Body, Gel (Скраб для тела ГЕЛЕВЫЙ)
+  7. Naturvita (Naturvita) - Scrub for Body, Detox with Fucus/Deep Cleansing (Скраб для тела детокс с фукусом/глубокое очищение)
+  8. Naturvita (Naturvita) - Scrub for Body, Coconut/Rich Nutrition and Moisture (Скраб для тела Кокос/Бедренное питание и увлажнение)
+  9. Vichy (Vichy) - Anti-Stress Shower Gel with 72h Protection Against Odor for Women and Men (Шоуер гэль для душа анти-стресс с защитой на 72 часа от запаха пота для женщин и мужчин)
+  10. Frei OL (Frei OL) - Mama Massage Oil (Массажное масло для беременных)
+  11. Klorane (Klorane) - Seve de Bambou Gel Douche (Питательный гель для душа молочко бамбука с органическим маслом Купуасу)
+  12. Vichy (Vichy) - Cleansing Shower Gel with Prebiotics (Гель для умывания с пребиотиками)
+  13. Frei OL (Frei OL) - Hydrolipid Cream (Увлажняющий крем Hydrolipid)
+  14. La Roche-Posay (La Roche-Posay) - Lipikar Gel Lavant Shower Gel with Protective Properties for Sensitive Skin (Успокаивающий очищающий гель для душа с защитными свойствами для чувствительной кожи детей и взрослых с ниацинамидом и маслом ши)
+  15. Vitex (Viteks) - Salt Foot Soak with Tea Tree Oil (Солевая ванночка-концентрат с маслом чайного дерева для ног Парафинотерапия)
+  16. Westro (Westro) - Pedicure Massage Foot Bath for 3000.0 (Гидромассажная ванночка для педикюра для ног на 3000.0)
+  17. Bohemia (Bohemia) - Parfum Shower Gel, Rosy Pepper and Vetiver (Парфюмированный гель для душа, Розовый перец и ветивер)
+  18. Jiji (Jiji) - Face Cleanser, Natural Cleansing and Moisturizing (Пенка для умывания лица очищающая увлажняющая натуральная)
+  19. La Roche-Posay (La Roche-Posay) - Lipikar Lait Shower Milk for Dry and Very Dry Skin (Молочко для душа Lipikar Lait для сухой и очень сухой кожи)
+  20. Naturvita (Naturvita) - Scrub for Body, Lemongrass/Smoothness (Скраб для тела БАМБУК ЛЕМОНГРАСС/ГЛАДКОСТЬ)
+  21. Vichy (Vichy) - Mineralizing Thermal Spa Water (Минерализированная термальная вода спа-воды)
+  22. Frei OL (Frei OL) - Baby Oil (Масло для ребенка)
+  23. Klorane (Klorane) - Dry Shampoo with Oat Milk (Сухой шAMPунь с овсяным молоком)
+  24. La Roche-Posay (La Roche-Posay) - Cicaplast Baume B5 (Бам-бальзам Cicaplast B5)
+  25. Vichy (Vichy) - Pore Purifying Clay Mask (Глиняная маска для очищения пор), 9.016155362129211, [72,797,455,74],  
+23, Дай рекомендации по лечению акне,  {
+      "recomended product": "Бензойная пеeling-маска",
+      "answer": "Лечение акне может включать в себя применение бензойной пеeling-маски, которая помогает удалить загрязнения и сгладить кожу. Кроме того, рекомендуется использовать специальные кремы для акне, которые содержат сальicyловую кислоту или ретиноиды. Необходимо также уделять внимание правильной гигиене лица и питанию, избегая слишком жирных и сладких продуктов."
+    }, 1.0747016191482544,  {
+      "recomended product": "NORMACNE",
+      "answer": "Для лечения акне я рекомендую использовать продукт NORMACNE, этот точечный гель для проблемной кожи. Он предназначен против несовершенств и применяется на лицо женщин. Помните, что лечение акне должно быть постоянным и согласующимся с рекомендациями врача."
+    }, 0.7325762033462524, 1. Bohemia (Bohemia) - Parfum Shower Gel, Ambra y Musk
+  2. Klorane (Klorane) - Lait d'Amandier Crème Douche (Pitaтельный крем для душа молочко миндаля с органическим маслом Купуасу)
+  3. Klorane (Klorane) - Fenille de Figuier Gel Douche (Питательный гель для душа цветок апельсина с органическим маслом Купуасу)
+  4. Gehwol (Gehwol) - Osvezhayushchaya vannochka (Освежающая ванночка)
+  5. Frei OL (Frei OL) - Milky Bath Oil (Масло для ванны c овсяным молочком)
+  6. Naturvita (Naturvita) - Scrub for Body, Gel (Скраб для тела ГЕЛЕВЫЙ)
+  7. Naturvita (Naturvita) - Scrub for Body, Detox with Fucus/Deep Cleansing (Скраб для тела детокс с фукусом/глубокое очищение)
+  8. Naturvita (Naturvita) - Scrub for Body, Coconut/Rich Nutrition and Moisture (Скраб для тела КОКОС/БЕРЕЖНОЕ ПИТАНИЕ И УВЛАЖНЕНИЕ)
+  9. Vichy (Vichy) - Anti-Stress Shower Gel, Antiperperspirant 72H for Women and Men (Шариковый дезодорант анти-стресс от повышенного потоотделения, роликовый антиперспирант с защитой 72 часа от запаха пота для женщин и мужчин)
+  10. Frei OL (Frei OL) - Hydrolipid Cream (Увлажняющий крем Hydrolipid)
+  11. La Roche-Posay (La Roche-Posay) - Lipikar Gel Lavant Shower Gel (Успокаивающий очищающий гель для душа с защитными свойствами для чувствительной кожи детей и взрослых с ниацинамидом и маслом ши)
+  12. Vitex (Viteks) - Paraffin Therapy Foot Soak Concentrate with Tea Tree Oil (Солевая ванночка-концентрат с маслом чайного дерева для ног Парафинотерапия)
+  13. Westro (Westro) - Pedicure Massage Foot Spa 3000.0 (Гидромассажная ванночка для педикюра)
+  14. Bohemia (Bohemia) - Parfum Shower Gel, Rosy Pepper and Vetiver (Парфюмированный гель для душа, Розовый перец и ветивер)
+  15. Jiji (Jiji) - Face Cleanser, Natural Cleansing and Moisturizing (Пенка для умывания лица очищающая увлажняющая натуральная)
+  16. La Roche-Posay (La Roche-Posay) - Lipikar Lait Shower Milk for Dry and Very Dry Skin (Молочко для сухой и очень сухой кожи младенцев, детей и взрослых)
+  17. Naturvita (Naturvita) - Scrub for Body, Lemongrass and Bamboo/Smoothness (Скраб для тела БАМБУК ЛЕМОНГРАСС/ГЛАДКОСТЬ)
+  18. Frei OL (Frei OL) - Mama Massage Oil (Массажное масло для беременных Mama)
+  19. Avene (Avene) - Body Skin Care Oil (Масло для тела, лица и волос Body Skin Care Oil)
+  20. Vichy (Vichy) - Clinical Control Shower Gel, Antiperperspirant for Women and Men (Шариковый дезодорант клиничного контроля для женщин и мужчин)
+  21. Bohemia (Bohemia) - Parfum Shower Gel, Rosemary and Mint (Парфюмированный гель для душа, Ромашка и Минт)
+  22. Klorane (Klorane) - Dry Shampoo with Oat Milk (Сухой шAMPунь с овсяным молоком)
+  23. La Roche-Posay (La Roche-Posay) - Cicaplast Baume B5 Repairing Balm (Бальзам восстановления Cicaplast Baume B5)
+  24. Frei OL (Frei OL) - Body Oil for Dry Skin (Масло для тела для сухой кожи)
+  25. Avene (Avene) - Thermal Spring Water (Термальная вода из источника Авен), 9.016155362129211, [72,797,455,74],  
+24, Дай рекомендации по лечению акне,  {
+      "recomended product": "Бензойная пеeling-маска",
+      "answer": "Лечение акне может включать в себя применение бензойной пеeling-маски, которая помогает удалить загрязнения и сгладить кожу. Кроме того, рекомендуется использовать солнечный экран для защиты кожи от ультрафиолетового излучения и питательные кремы для нормализации жидкости в коже."
+   }, 1.0747016191482544,  {
+      "recomended product": "NORMACNE",
+      "answer": "Для лечения акне я рекомендую использовать продукт NORMACNE - Точечный гель для проблемной кожи. Этот гель предназначен против несовершенств и пригоден для женской кожи. Примените его на лицо, но помните, что он не гипоаллергенный."
+    }, 0.7325762033462524, 1. Bohemia - Bohemia Parfum Shower Gel (Amber & Musk, Ambra e Muschi, Rosa Pimenta e Vetiver)
+2. Klorane - Lait d'Amandier Crème Douche (Pure Milk Almond Shower Cream)
+3. Klorane - Fenille de Figuier Gel Douche (Fig Flower Shower Gel)
+4. Klorane - Fleur d'Oranger Gel Douche (Orange Blossom Shower Gel)
+5. Frei OL - Milky Bath Oil (Olive Milk Bath Oil)
+6. Naturvita - Detox Scrub for Body (Fucus/Deep Cleansing, Fucus/Pulizia Profonda)
+7. Naturvita - Gel Scrub for Body (Hypoallergenic, Gel Scrub per Corpo Allergico)
+8. Naturvita - Lemongrass & Bamboo Body Scrub (Lemongrass/Bambuk, Limone e Bambù)
+9. La Roche-Posay - Lipikar Lait (Milk for Dry and Very Dry Skin, Latte per pelle secca e molto secca)
+10. La Roche-Posay - Lipikar Gel Lavant Shower Gel (Calming Cleansing Gel for Sensitive Skin, Gel lavante per pelle sensibile)
+11. Vichy - Anti-Stress Shower Gel with Tea Tree Oil (Shower Gel Antistress con Olio di Melograno, Gel d'Igiene Antistress con Olio di Melograno)
+12. Frei OL - Hydrolipid Cream (Hydrolipid Creme)
+13. B4 - Cleansing Gel with Prebiotics (Gel Pulitivo con Prebiotici, Gel Pulitivo con Prebiotici)
+14. Westro - Pedicure Foot Spa (Hydromassage for Feet, Idromassaggio per piedi)
+15. Weastro - Foot Spa with Sea Salt and Tea Tree Oil (Sea Salt & Tea Tree Oil Foot Spa, Salmone e Olio di Melograno Pedicure)
+16. Jiji - Natural Face Wash (Natural Cleansing Foam, Spuma Pulitiva Naturale), 9.016155362129211, [72,797,455,74],  
+25, Дай рекомендации по лечению акне,  {
+      "recomended product": "Бензойная пеeling-маска",
+      "answer": "Лечение акне может включать в себя применение бензойной пеeling-маски, которая помогает удалить загрязнения и сгладить кожу. Кроме того, рекомендуется использовать солнечную крем для защиты кожи от солнца и предотвращения появления новых пятен. Для улучшения состояния кожи необходимо также правильное питание и достаточное количество воды."
+    }, 1.0747016191482544,  {
+      "recomended product": "NORMACNE",
+      "answer": "Для лечения акне я рекомендую использовать продукт NORMACNE, точечный гель для проблемной кожи. Этот гель помогает справиться с несовершенствами кожи и предназначен для женщин. Применяется на лице."
+    }, 0.7325762033462524, 1. Bohemia - Bohemia Parfum Shower Gel (Amber & Musk, Ambra e Muschi, Rosa Pimenta e Vetiver)
+2. Klorane - Lait d'Amandier Crème Douche (Pituitifiant, Amande)
+3. Frei OL - Milky Bath Oil (Olio per Bagno con Farina di Frumento, Olio per Bagno con Latte di Mais)
+4. Avène - Body Skin Care Oil (Olio per Corpo, Olio per Corpo e Capelli XeraCalm A.D.)
+5. Vichy - Clinical Control Shower Gel (Gel Douche Antiperspirante per Donne e Uomini)
+6. Vichy - Sensitive 0+ x2 Moisture&Replenish Shower Gel (Gel Douche Uvlažňující a Přiléhavý pro 0+, Gel Douche Hidratant e Ripristinativo per Bambini e Adulti)
+7. Klorane - Fleur d'Oranger Gel Douche (Pituitifiante, Citrus)
+8. GEHWOL - Refreshing Bath (Bagno Rinfrescante)
+9. Naturvita Roma - Body Scrub Lemon Grass & Detox (Scrub per Corpo Limone e Grasso di Cipolla/Scrub per Corpo con Fucus e Profondo Pulitivo)
+10. La Roche-Posay - Lipikar Lait (Latte per la Pelle secca e molto secca)
+11. Naturvita Roma - Body Scrub Coconut & Nourishing (Scrub per Corpo Cocco e Nutriente)
+12. Vichy - Anti-Stress Shower Gel (Gel Douche Antistress con Protezione contro la sudorazione, Gel Douche Antiperspirante a 72 ore per Donne e Uomini)
+13. Frei OL - Mama Oil (Olio per Massaggi Prenatali)
+14. Klorane - Seve de Bambou Gel Douche (Pituitifiante, Bambù)
+15. B4 - Cleansing Shower Gel with Prebiotics (Gel Douche Pulisciuto con Prebiotici)
+16. Frei OL - Hydrolipid Cream (Cremone Idrolipidica)
+17. La Roche-Posay - Lipikar Gel Lavant Shower Gel (Gel Douche Rassicurante e Pulisciuto con proprietà protettive per la pelle sensibile di bambini e adulti, Gel Douche Rassicurante e Pulisciuto con niacinamide e olio di palma)
+18. Vitex - Salt Spa Foot Soak (Vanocchia Salata con Olio di Tè del Camelia)
+19. Westro - Pedicure Massage Bath (Bagno Hidromassaggio per le mani)
+20. Bohemia - Bohemia Parfum Shower Gel (Rosso Pimento e Vetiver, Rosa Pimenta e Vetiver)
+21. Jiji - Cleansing Face Wash (Sapone Facciale Pulisciuto e Uvlažňující), 9.016155362129211, [72,797,455,74],  
+26, Дай рекомендации по лечению акне,  {
+      "recomended product": "Бензойная пеeling-маска",
+      "answer": "Лечение акне может включать в себя применение бензойной пеeling-маски, которая помогает удалить загрязнения и сгладить кожу. Кроме того, рекомендуется использовать солнечный экран для защиты от ультрафиолетовых лучей, а также питательные кремы для нормализации жировой секреции и восстановления равновесия кожи."
+   }, 1.0747016191482544,  {
+      "recomended product": "NORMACNE",
+      "answer": "Для лечения акне я рекомендую использовать продукт NORMACNE - Точечный гель для проблемной кожи. Этот гель предназначен против несовершенств и пригоден для женской кожи. Применяется на лицо, но не гипоаллергенен."
+   }, 0.7325762033462524, 1. Bohemia (Bohemia) - Parfum Shower Gel, Ambra y Musk
+  2. Klorane (Klorane) - Lait d'Amandier Crème Douche (Pitaтельный крем для душа молочко миндаля с органическим маслом Купуасу)
+  3. Klorane (Klorane) - Fenille de Figuier Gel Douche (Питательный гель для душа цветок апельсина с органическим маслом Купуасу)
+  4. Gehwol (Gehwol) - Osvezhayushchaya vannochka
+  5. Naturvita (Naturvita) - Scrub for Body, Detox with Fucus/Deep Cleansing
+  6. Naturvita (Naturvita) - Scrub for Body, Coconut/Rich Nutrition and Moisturizing
+  7. Vichy (Vichy) - Anti-Stress Shower Gel, Antiperspirant with 72h Protection against body odor for women and men
+  8. Frei OL (Frei OL) - Massage Oil for Pregnant Women Mama
+  9. Klorane (Klorane) - Seve de Bambou Gel Douche (Питательный гель для душа молочко бамбука с органическим маслом Купуасу)
+  10. B4 (B4) - Cleansing Gel with Prebiotics
+  11. Frei OL (Frei OL) - Hydrolipid Cream
+  12. La Roche-Posay (La Roche-Posay) - Lipikar Gel Lavant Shower Gel, Calming and Cleansing with protective properties for sensitive skin of children and adults with niacinamide and coconut oil
+  13. Vitex (Viteks) - Salt Foot Bath Concentrate with Tea Tree Oil Pedicure
+  14. Westro (Westro) - Hydromassage Footbath for Pedicure 3000.0
+  15. Bohemia (Bohemia) - Parfum Shower Gel, Rosy Pepper and Vetiver
+  16. Jiji (Jiji) - Face Wash, Cleansing and Moisturizing Natural
+  17. La Roche-Posay (La Roche-Posay) - Lipikar Lait Shower Milk for Dry and Very Dry Skin of Babies, Children and Adults
+  18. Naturvita (Naturvita) - Scrub for Body, Lemongrass/Smoothness
+  19. Frei OL (Frei OL) - Bath Oil with Oat Milk Milky Bath Oil
+  20. Naturvita (Naturvita) - Scrub for Body, Hypoallergenic Gel
+  21. Avène (Avène) - Lipid-Replenishing Balm XeraCalm A.D.
+  22. Creating Myself (Creating Myself) - Snow of Kamchatka Volcanoes Butter for Face and Body with Shimmer
+  23. Frei OL (Frei OL) - Bath Oil with Oat Milk, Milky Bath Oil
+  24. Naturvita (Naturvita) - Scrub for Body, Bamboo Lemongrass/Smoothness
+  25. Vichy (Vichy) - Calming and Cleansing Shower Gel with protective properties for sensitive skin of children and adults with niacinamide and coconut oil., 9.016155362129211, [72,797,455,74],  
+27, Дай рекомендации по лечению акне,  {
+      "recomended product": "Бензойная пеeling-маска",
+      "answer": "Лечение акне может включать в себя использование бензойной пеелинг-маски, которая помогает удалять загрязнения и предотвращать появление новых пятен. Кроме того, рекомендуется использовать солнечную крем для защиты кожи от солнца и предотвращения появления новых акне. Также необходимо употреблять достаточное количество воды в день, чтобы поддерживать правильный уровень влажности кожи. Если у вас есть тяжелый случай акне, рекомендуется обратиться к косметологу для получения профессиональной помощи."
+    }, 1.0747016191482544,  {
+      "recomended product": "NORMACNE",
+      "answer": "Для лечения акне я рекомендую использовать продукт NORMACNE - Точечный гель для проблемной кожи. Этот гель предназначен против несовершенств и пригоден для женской кожи. Применяется на лицо, но не гипоаллергенен."
+   }, 0.7325762033462524, 1. Bohemia (Bohemia) - Parfum Shower Gel, Ambra y Musk
+  2. Naturvita (Naturvitamins) - Scrub Body Detox with Fucus/Deep Cleansing
+  3. La Roche-Posay (L'Oréal) - Lipikar Lait Milk for Dry and Very Dry Skin Infants, Children, and Adults
+  4. Klorane (Klorane Laboratories) - Nourishing Shower Gel with Almond Milk and Organic Cupuaçu Oil
+  5. Frei Oils (Frei Oils) - Milky Bath Oil with Oatmeal Milk
+  6. Naturvita (Naturvitamins) - Scrub Body Gel/Hypoallergenic
+  7. La Roche-Posay (L'Oréal) - Lipikar Lait Milk for Babies, Toddlers and Adults with Dry or Very Dry Skin
+  8. Klorane (Klorane Laboratories) - Nourishing Shower Gel with Bamboo Milk and Organic Cupuaçu Oil
+  9. Frei Oils (Frei Oils) - Hydrolipid Cream
+  10. La Roche-Posay (L'Oréal) - Lipikar Gel Lavant Soothing Shower Gel for Sensitive Skin with Protective Properties for Children and Adults with Niacinamide and Shea Butter
+  11. Vitex (Vitrix) - Epsom Salt Foot Soak Concentrate with Tea Tree Oil
+  12. Westro (Westro) - Hydromassage Foot Bath for Pedicure 3000.0
+  13. Bohemia (Bohemia) - Parfum Shower Gel, Red Pepper and Vetiver
+  14. Jiji (Jiji Cosmetics) - Facial Cleanser, Natural Cleansing and Moisturizing
+  15. Frei Oils (Frei Oils) - Mama Massage Oil
+  16. Klorane (Klorane Laboratories) - Nourishing Shower Gel with Coconut Milk and Organic Coconut Oil
+  17. Vitex (Vitrix) - Sea Salt Foot Soak Concentrate with Eucalyptus Oil for Stress Relief, Antiperspirant with Protection for 72 hours against body odor for Women and Men
+  18. Frei Oils (Frei Oils) - Pregnancy Massage Oil
+  19. Klorane (Klorane Laboratories) - Nourishing Shower Gel with Organic Cupuaçu Oil and Fig Flower
+  20. GEHWOL (GEHWOL) - Refreshing Foot Bath
+  21. Naturvita (Naturvitamins) - Scrub Body Lemon Grass/Smoothness
+  22. Avène (Avène Laboratories) - Lipid-Replenishing Balm XeraCalm A.D.
+  23. Snow from Kamchatka Volcanoes (Creating Yourself) - Butter for Face and Body "Snow from Kamchatka Volcanoes" with Shimmer
+  24. Frei Oils (Frei Oils) - Bath Oil with Oatmeal Milk
+  25. Naturvita (Naturvitamins) - Scrub Body Hypoallergenic Lemon Grass/Gel
+  26. Klorane (Klorane Laboratories) - Nourishing Shower Gel with Organic Cupuaçu Oil and Orange Blossom
+  27. GEHWOL (GEHWOL) - Refreshing Foot Bath
+  28. Naturvita (Naturvitamins) - Scrub Body Lemongrass/Beauty Food and Hydration
+  29. Avène (Avène Laboratories) - Soothing Shower Gel for Sensitive Skin with Protective Properties for Children and Adults with Niacinamide and Shea Butter
+  30. Vitex (Vitrix) - Sea Salt Foot Soak Concentrate with Lavender Oil for Relaxation, Antiperspirant with Protection for 72 hours against body odor for Women and Men, 9.016155362129211, [72,797,455,74],  
+28, Дай рекомендации по лечению акне,  {
+      "recomended product": "Бензойная пеeling-маска",
+      "answer": "Лечение акне может включать в себя применение бензойной пеeling-маски, которая помогает удалить загрязнения и сгладить кожу. Кроме того, рекомендуется использовать солнечный экран для защиты от ультрафиолетовых лучей, а также питательные кремы для нормализации жировой секреции и восстановления кожи."
+   }, 1.0747016191482544,  {
+      "recomended product": "NORMACNE",
+      "answer": "Для лечения акне я рекомендую использовать продукт NORMACNE, этот точечный гель для проблемной кожи. Он предназначен против несовершенств и применяется на лицо женщин. Помните, что лечение акне должно быть постоянным и согласующимся с рекомендациями дерматолога."
+    }, 0.7325762033462524, 1. Bohemia (Bohemia) - Parfum Shower Gel, Ambra y Musk
+  2. Naturvita (Naturvitaroma) - Scrub Body Detox with Fucus/Deep Cleansing
+  3. La Roche-Posay (La Roche-Posay) - Lipikar Lait Milk for Dry and Very Dry Skin of Babies, Children and Adults
+  4. Klorane (Klorane) - Nourishing Shower Gel with Almond Milk and Organic Cupuacu Oil
+  5. Frei Ol (Frei OL) - Milky Bath Oil
+  6. Naturvita (Naturvitaroma) - Scrub Body Gel/Hypoallergenic
+  7. Klorane (Klorane) - Nourishing Shower Gel with Fig Flower and Organic Cupuacu Oil
+  8. Klorane (Klorane) - Nourishing Shower Gel with Orange Blossom and Organic Cupuacu Oil
+  9. Gehwol (Gehwol) - Refreshing Bath
+  10. Naturvita (Naturvitaroma) - Scrub Body Lemongrass/Smoothness
+  11. La Roche-Posay (La Roche-Posay) - Lipikar Lait Milk for Dry and Very Dry Skin of Babies, Children and Adults
+  12. Naturvita (Naturvitaroma) - Scrub Body Coconut/Rich Nutrition and Moisturizing
+  13. Vichy (VICHY) - Anti-Stress Shower Gel with Sweat Protection for 72 Hours, Roll-On Antiperspirant for Women and Men
+  14. Frei Ol (Frei OL) - Mama Massage Oil
+  15. Klorane (Klorane) - Nourishing Shower Gel with Bamboo Milk and Organic Cupuacu Oil
+  16. B4 (B4) - Cleansing Gel with Prebiotics
+  17. Frei Ol (Frei OL) - Hydrolipid Cream
+  18. La Roche-Posay (La Roche-Posay) - Lipikar Gel Lavant Shower Gel with Protective Properties for Sensitive Skin of Children and Adults with Niacinamide and Shea Butter
+  19. Vitex (VITEX) - Salt Footbath Concentrate with Tea Tree Oil for Feet Paraffin Therapy
+  20. Westro (WEASTRO) - Hydromassage Footbath for Pedicure 3000.0
+  21. Bohemia (Bohemia) - Parfum Shower Gel, Red Pepper and Vetiver
+  22. Jiji (JIJI) - Face Cleanser, Natural, Cleansing and Moisturizing., 9.016155362129211, [72,797,455,74],  
+29, Дай рекомендации по лечению акне,  {
+      "recomended product": "Бензойная пеeling-маска",
+      "answer": "Лечение акне может включать в себя применение бензойной пеeling-маски, которая помогает удалить загрязнения и сгладить кожу. Кроме того, рекомендуется использовать солнцезащитную крем или масло для защиты кожи от ультрафиолетового излучения. Для контроля секреции жирной слизи, можно применить продукт с салоциналом, а для регулирования пищеварения - продукт с зелёным чаем."
+    }, 1.0747016191482544,  {
+      "recomended product": "NORMACNE",
+      "answer": "Для лечения акне я рекомендую использовать продукт NORMACNE - Точечный гель для проблемной кожи. Этот гель поможет улучшить состояние вашей кожи, борясь с несовершенствами и акне."
+    }, 0.7325762033462524, 1. Bohemia (Bohemia) - Parfum Shower Gel, Ambra y Musk
+  2. Klorane (Klorane) - Lait d'Amandier Crème Douche (Pitaтельный крем для душа молочко миндаля с органическим маслом Купуасу)
+  3. Klorane (Klorane) - Fenille de Figuier Gel Douche (Питательный гель для душа цветок апельсина с органическим маслом Купуасу)
+  4. Gehwol (Gehwol) - Osvezhayushchaya vannochka (Освежающая ванночка)
+  5. Naturvita (Naturvita) - Scrub для тела БАМБУК ЛЕМОНГРАСС/ГЛАДКОСТЬ (Скраб для тела детокс с фукусом/глубокое очищение)
+  6. La Roche-Posay (La Roche-Posay) - Lipikar Lait (Молочко для сухой и очень сухой кожи младенцев, детей и взрослых)
+  7. Frei OL (Frei OL) - Milky Bath Oil (Масло для ванны c овсяным молочком)
+  8. Naturvita (Naturvita) - Scrub для тела ГЕЛЕВЫЙ/ГИПОАЛЛЕРГЕННЫЙ (Скраб для тела детокс с фукусом/глубокое очищение)
+  9. La Roche-Posay (La Roche-Posay) - Lipikar Gel Lavant (Успокаивающий очищающий гель для душа с защитными свойствами для чувствительной кожи детей и взрослых с ниацинамидом и маслом ши)
+  10. Vitex (Viteks) - Parafino-terapiya (Солевая ванночка-концентрат с маслом чайного дерева для ног Парафинотерапия)
+  11. Westro (Westro) - Hidromassazhnyaya vannochka dlya nog (Гидромассажная ванночка для педикюра)
+  12. Bohemia (Bohemia) - Parfum Shower Gel, Розовый перец и ветивер
+  13. Jiji (Jiji) - Face Wash (Пенка для умывания лица очищающая увлажняющая натуральная)
+  14. Frei OL (Frei OL) - Hydrolipid Cream (Увлажняющий крем Hydrolipid)
+  15. Avène (Avène) - Body Skin Care Oil (Масло для тела, лица и волос Body Skin Care Oil)
+  16. B4 (B4) - Cleansing Gel (Гель для умывания с пребиотиками)
+  17. Ovaco (Ovaco) - Balm for Shower (Бальзам для душа Увлажняющий)
+  18. Frei OL (Frei OL) - Shaping Oil (Масло моделирующее для тела Shaping Oil)
+  19. Avène (Avène) - Lipid-Replenishing Balm XeraCalm A.D. (Липидо-восполняющий бальзам XeraCalm A.D.)
+  20. Creating Myself (Creating Myself) - Butter for Face and Body "Snow of Kamchatka Volcanoes" with Shimmer (Баттер для лица и тела "Снег Камчатских вулканов" с шиммером)
+  21. Frei OL (Frei OL) - Mama Massage Oil (Массажное масло для беременных Mama)
+  22. Bimunica (Bimunica) - Sensitive 0+ x2 MOISTURE&REPLENISH Shower Gel (Гель-крем для душа УВЛАЖДЕНИЕ И ВОСТАНОВКА 0+)
+  23. Naturvita (Naturvita) - Scrub for Body "Pink Grapefruit" (Скраб для тела "Розовый Гранат")
+  24. La Roche-Posay (La Roche-Posay) - Cicaplast Baume B5 (Бальзам Cicaplast Baume B5)
+  25. Avène (Avène) - Thermal Spring Water Spray (Спрайс термальной воды из источника Авен), 9.016155362129211, [72,797,455,74],  
