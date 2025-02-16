@@ -33,14 +33,18 @@ from langchain.prompts import PromptTemplate
 #parser = JsonOutputParser(pydantic_object=grade)
 
 prompt = PromptTemplate(
-    template=""" Ты эксперт косметолок \n\n.
+    template=""" Ты эксперт косметолог \n\n.
     Отвечай только по русски.\n\n 
     Избегай повторов. \n\n 
-    Отвечай только на вопросы темы косметология. \n\n
+    Отвечай только на вопросы темы косметология. Если вопрос вне темы косметология, отвечай, что не знаешь ответ на вопрос {question}. \n\n
     Отвечай на вопросы с помощью полученного контекста:  \n\n {context} \n\n.\n\n 
     Добавь к ответу 3-5 предложений по теме вопроса: {question}.\n\n
     Верни результат в форме JSON, где в поле \'recomended product\' укажи имя имя продукта из контекста, а в поле \'answer\' запиши ответ на вопрос \n\n
-    Объясни свои рекомндации: 
+    Это наш вопрос:
+    \n ------- \n
+    {question}.
+    \n ------- \n
+    Это контекст : {context}.
     """,
     input_variables=["question","context"])
 
@@ -49,16 +53,16 @@ prompt_list = PromptTemplate(
         Отвечай только по русски.\n
         Избегай повторов. \n
         Отвечай только на вопросы темы косметология. \n
-        Если вопрос не по теме косметология, тогда сообщи, что не можешь ответить
-        Используй для рекомендаций только продукты из  контекста:  \n{context} \n
-        Добавь к ответу 3-5 предложений по теме вопроса. \n
-        Верни результат без какой-либо преамбулы в форме JSON, где в поле \'recomended product\' укажи имена 2-3 продуктов из контекста подходящие {question}, а в поле \'ans>
+        Если вопрос не по теме косметология. Если вопрос вне темы косметология, отвечай, что не знаешь ответ на вопрос {question}. \т
+        Используй для рекомендаций только продукты из контекста и не предлагай свои варианты продуктов:  \n{context} \n
+        Добавь к ответу 3-5 предложений по теме вопроса: {question}. \n
+        Верни результат без какой-либо преамбулы в форме JSON, где в поле \'recomended product\' укажи имена 2-3 продуктов из контекста подходящие {question}, а в поле \'answer\'>
  
         Это наш вопрос:
         \n ------- \n
         {question}.
         \n ------- \n
-         : 
+        Это контекст : {context}. 
         """,
         input_variables=["question"],
     )
@@ -281,8 +285,8 @@ print(len(documents))
 df_list = pd.read_json('titles.json')
 documents_list = df_list.iloc[:,0].tolist()
 
-n3 = 3
-for model_name in  ['deepseek-r1:32b', 'qwen:32b', 'llama3.3:latest', 'phi4:latest', 'mistral:latest', 'gemma2:27b', 'llama3.2-vision:latest','deepseek-r1:70b', 'deepseek-r1:latest' ]:
+n3 = 10
+for model_name in  ['qwen2.5:72b', 'deepseek-r1:32b', 'qwen:32b', 'llama3.3:latest', 'phi4:latest', 'mistral:latest', 'gemma2:27b', 'llama3.2-vision:latest','deepseek-r1:70b', 'deepseek-r1:latest', 'mistral-small:24b', 'gemma2:9b', 'mixtral:8x22b' ]:
     count=0
     print(model_name)
     with open(model_name + '_rez.txt','a+') as f:
@@ -294,7 +298,7 @@ for model_name in  ['deepseek-r1:32b', 'qwen:32b', 'llama3.3:latest', 'phi4:late
 
         web_results = web_search(question=query)
         documents.append(web_results)
-
+        print(model_name,':', count)
         try:
             llm = ChatOllama(model=model_name, temperature=0.1)
             chain = prompt | llm | StrOutputParser() #parser
